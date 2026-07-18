@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CreditAI — Sistema Inteligente de Evaluación Crediticia</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+    <!-- LOGIN SCREEN -->
+    <div id="loginScreen" class="auth-screen">
+        <div class="auth-card">
+            <div class="auth-brand">
+                <div class="auth-logo">AI</div>
+                <h1>CreditAI</h1>
+                <p>Sistema Inteligente de Evaluación Crediticia</p>
+            </div>
+            <form id="loginForm" class="auth-form">
+                <div class="form-group">
+                    <label>Usuario</label>
+                    <input type="text" id="loginUsername" placeholder="admin" required>
+                </div>
+                <div class="form-group">
+                    <label>Contraseña</label>
+                    <input type="password" id="loginPassword" placeholder="••••••••" required>
+                </div>
+                <button type="submit" class="btn-primary btn-full">Ingresar</button>
+                <p id="loginError" class="error-msg hidden"></p>
+            </form>
+        </div>
+    </div>
+
+    <!-- MAIN APP -->
+    <div id="app" class="hidden">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-brand">
+                <div class="brand-icon">AI</div>
+                <span>CreditAI</span>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active" data-page="dashboard">
+                    <svg viewBox="0 0 24 24"><path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/></svg>
+                    Dashboard
+                </a>
+                <a href="#" class="nav-item" data-page="clients">
+                    <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
+                    Clientes
+                </a>
+                <a href="#" class="nav-item" data-page="evaluations">
+                    <svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+                    Evaluaciones
+                </a>
+                <a href="#" class="nav-item" data-page="simulator">
+                    <svg viewBox="0 0 24 24"><path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58c.18-.14.23-.41.12-.61l-1.92-3.32c-.12-.22-.37-.29-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54c-.04-.24-.24-.41-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.74 8.87c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58c-.18.14-.23.41-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"/></svg>
+                    Simulador
+                </a>
+            </nav>
+            <div class="sidebar-footer">
+                <div class="user-info">
+                    <div class="user-avatar" id="userAvatar">A</div>
+                    <div>
+                        <div class="user-name" id="userName">Admin</div>
+                        <div class="user-role" id="userRole">ADMIN</div>
+                    </div>
+                </div>
+                <button class="btn-logout" id="logoutBtn">Salir</button>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- DASHBOARD PAGE -->
+            <section id="dashboardPage" class="page active">
+                <div class="page-header">
+                    <h2>Dashboard</h2>
+                    <span class="page-subtitle">Resumen del sistema crediticio</span>
+                </div>
+                <div class="stats-grid stats-grid-wide">
+                    <div class="stat-card">
+                        <div class="stat-icon blue"><svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg></div>
+                        <div class="stat-info">
+                            <div class="stat-value" id="totalClients">—</div>
+                            <div class="stat-label">Clientes registrados</div>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon green"><svg viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div>
+                        <div class="stat-info">
+                            <div class="stat-value" id="avgScore">—</div>
+                            <div class="stat-label">Score promedio</div>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon purple"><svg viewBox="0 0 24 24"><path d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z"/></svg></div>
+                        <div class="stat-info">
+                            <div class="stat-value" id="evaluatedClients">—</div>
+                            <div class="stat-label">Clientes evaluados</div>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon orange"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg></div>
+                        <div class="stat-info">
+                            <div class="stat-value" id="activeClients">—</div>
+                            <div class="stat-label">Clientes activos</div>
+                        </div>
+                    </div>
+                    <div class="stat-card compact-stat">
+                        <div class="stat-info">
+                            <div class="stat-value" id="basicCount">—</div>
+                            <div class="stat-label">Clientes Básicos</div>
+                        </div>
+                    </div>
+                    <div class="stat-card compact-stat">
+                        <div class="stat-info">
+                            <div class="stat-value" id="intermediateCount">—</div>
+                            <div class="stat-label">Clientes Intermedios</div>
+                        </div>
+                    </div>
+                    <div class="stat-card compact-stat">
+                        <div class="stat-info">
+                            <div class="stat-value" id="advancedCount">—</div>
+                            <div class="stat-label">Clientes Avanzados</div>
+                        </div>
+                    </div>
+                    <div class="stat-card compact-stat">
+                        <div class="stat-info">
+                            <div class="stat-value" id="highRiskCount">—</div>
+                            <div class="stat-label">Clientes alto riesgo</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dashboard-section-title">Dashboard del negocio</div>
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3>Distribución por Nivel de Riesgo</h3>
+                        <canvas id="riskChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Clientes por segmento</h3>
+                        <canvas id="profileChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Score promedio por segmento</h3>
+                        <canvas id="scoreBySegmentChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Productos financieros más recomendados</h3>
+                        <canvas id="productsChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Clientes aptos por producto financiero</h3>
+                        <canvas id="eligibleProductsChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Clientes por nivel de riesgo crítico</h3>
+                        <canvas id="highRiskChart"></canvas>
+                    </div>
+                </div>
+                <div class="dashboard-section-title">Dashboard técnico ML</div>
+                <div class="ml-stats-grid">
+                    <div class="ml-stat"><span>Accuracy modelo</span><strong id="mlAccuracy">—</strong></div>
+                    <div class="ml-stat"><span>Accuracy entrenamiento</span><strong id="mlTrainAccuracy">—</strong></div>
+                    <div class="ml-stat"><span>Accuracy prueba</span><strong id="mlTestAccuracy">—</strong></div>
+                    <div class="ml-stat"><span>Registros entrenamiento</span><strong id="mlTrainRows">—</strong></div>
+                    <div class="ml-stat"><span>Registros prueba</span><strong id="mlTestRows">—</strong></div>
+                </div>
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3>Matriz de confusión</h3>
+                        <canvas id="confusionChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Importancia de variables</h3>
+                        <canvas id="featureImportanceChart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- CLIENTS PAGE -->
+            <section id="clientsPage" class="page hidden">
+                <div class="page-header">
+                    <h2>Clientes</h2>
+                    <button class="btn-primary" id="newClientBtn">+ Nuevo Cliente</button>
+                </div>
+                <div class="search-bar">
+                    <input type="text" id="clientSearch" placeholder="Buscar por nombre o DNI...">
+                </div>
+                <div class="table-wrapper">
+                    <table class="data-table" id="clientsTable">
+                        <thead>
+                            <tr>
+                                <th>DNI</th><th>Nombre</th><th>Edad</th>
+                                <th>Ingresos</th><th>Ahorros</th><th>Estado</th><th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody id="clientsBody"></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- EVALUATIONS PAGE -->
+            <section id="evaluationsPage" class="page hidden">
+                <div class="page-header">
+                    <h2>Evaluaciones Crediticias</h2>
+                </div>
+                <div class="eval-layout">
+                    <div class="client-selector">
+                        <h3>Seleccionar Cliente</h3>
+                        <input type="text" id="evalSearch" placeholder="Buscar cliente...">
+                        <div id="evalClientList" class="client-list"></div>
+                    </div>
+                    <div class="eval-panel" id="evalPanel">
+                        <div class="eval-placeholder">
+                            <div class="placeholder-icon">🔍</div>
+                            <p>Selecciona un cliente para evaluar</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SIMULATOR PAGE -->
+            <section id="simulatorPage" class="page hidden">
+                <div class="page-header">
+                    <h2>Simulador Financiero</h2>
+                    <span class="page-subtitle">Modifica variables para proyectar el score</span>
+                </div>
+                <div class="simulator-layout">
+                    <div class="sim-client-panel">
+                        <h3>Seleccionar Cliente</h3>
+                        <input type="text" id="simSearch" placeholder="Buscar cliente...">
+                        <div id="simClientList" class="client-list"></div>
+                    </div>
+                    <div class="sim-controls" id="simControls">
+                        <div class="sim-placeholder">
+                            <div class="placeholder-icon">⚙️</div>
+                            <p>Selecciona un cliente para simular</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- MODAL: Client Form -->
+    <div id="clientModal" class="modal hidden">
+        <div class="modal-overlay" onclick="closeModal('clientModal')"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="clientModalTitle">Nuevo Cliente</h3>
+                <button onclick="closeModal('clientModal')" class="modal-close">×</button>
+            </div>
+            <form id="clientForm" class="modal-form">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>DNI *</label>
+                        <input type="text" id="fDni" maxlength="8" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Edad *</label>
+                        <input type="number" id="fAge" min="18" max="80" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Nombre completo *</label>
+                    <input type="text" id="fName" required>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Teléfono</label>
+                        <input type="text" id="fPhone">
+                    </div>
+                    <div class="form-group">
+                        <label>Email</label>
+                        <input type="email" id="fEmail">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Dirección</label>
+                    <input type="text" id="fAddress">
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Ingresos mensuales (S/) *</label>
+                        <input type="number" id="fIncome" step="0.01" min="0" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Ahorros totales (S/) *</label>
+                        <input type="number" id="fSavings" step="0.01" min="0" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Deudas actuales (S/)</label>
+                    <input type="number" id="fDebts" step="0.01" min="0" value="0">
+                </div>
+                <div class="modal-actions">
+                    <button type="button" class="btn-secondary" onclick="closeModal('clientModal')">Cancelar</button>
+                    <button type="submit" class="btn-primary" id="saveClientBtn">Guardar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- MODAL: AI Chat -->
+    <div id="chatModal" class="modal hidden">
+        <div class="modal-overlay" onclick="closeModal('chatModal')"></div>
+        <div class="modal-content modal-large">
+            <div class="modal-header">
+                <h3>Asistente IA — <span id="chatClientName"></span></h3>
+                <button onclick="closeModal('chatModal')" class="modal-close">×</button>
+            </div>
+            <div class="chat-container">
+                <div id="chatMessages" class="chat-messages">
+                    <div class="chat-msg assistant">
+                        <div class="msg-bubble">¡Hola! Soy el asistente IA crediticio. Puedo explicarte el perfil de riesgo, el score, o responder preguntas sobre este cliente.</div>
+                    </div>
+                </div>
+                <div class="chat-input-row">
+                    <input type="text" id="chatInput" placeholder="Escribe tu pregunta..." onkeydown="if(event.key==='Enter') sendChat()">
+                    <button class="btn-primary" onclick="sendChat()">Enviar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/api.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

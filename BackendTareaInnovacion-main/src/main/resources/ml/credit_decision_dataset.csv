@@ -1,0 +1,801 @@
+monthly_income,payment_history_rate,savings_level,active_credits,debt_ratio,payment_capacity,employment_months,conventional_score,product_count,has_mora,age,intelligent_score,profile,recommended_products
+9693.32,98.52,16314.96,1,21.95,78.05,24,82,2,0,19,82,ADVANCED,Cuenta sueldo premium; Credito hipotecario
+3462.66,77.62,8856.73,0,16.64,83.36,271,86,3,0,46,84,ADVANCED,Credito hipotecario; Credito vehicular; Productos premium
+6672.84,100.0,1613.68,0,25.72,74.28,137,82,3,0,37,79,ADVANCED,Productos premium; Fondos mutuos; Cuenta sueldo premium
+6622.67,80.51,32980.84,0,22.72,77.28,74,87,3,0,29,84,ADVANCED,Productos premium; Cuenta sueldo premium; Linea paralela
+11329.8,69.09,7159.21,1,38.48,61.52,106,79,4,0,25,70,ADVANCED,Credito hipotecario; Productos premium; Linea paralela; Fondos mutuos
+11339.5,85.7,42304.69,0,63.44,36.56,244,85,3,0,42,77,ADVANCED,Cuenta sueldo premium; Credito vehicular; Fondos mutuos
+10957.78,85.31,32805.79,0,38.25,61.75,96,87,3,0,27,82,ADVANCED,Cuenta sueldo premium; Credito vehicular; Productos premium
+10806.07,63.32,0.0,0,44.73,55.27,9,46,2,1,18,32,BASIC,Programa de educacion financiera; Cuenta de ahorro
+5212.21,81.75,3784.23,3,22.31,77.69,126,81,4,0,35,77,ADVANCED,Linea paralela; Fondos mutuos; Credito vehicular; Productos premium
+3708.41,90.18,0.0,1,33.96,66.04,340,76,2,0,46,72,ADVANCED,Credito hipotecario; Cuenta sueldo premium
+5665.26,45.45,11623.77,5,80.8,19.2,27,31,2,1,23,7,BASIC,Debito automatico; Ahorro programado
+5708.42,68.67,19346.08,5,31.6,68.4,100,54,2,1,28,46,BASIC,Microcredito controlado; Ahorro programado
+4500.63,85.69,0.0,0,51.62,48.38,171,73,4,0,35,66,INTERMEDIATE,Seguro de proteccion de pagos; Tarjeta de credito inicial; Prestamo personal; Credito de consumo
+2212.39,79.36,3594.69,0,19.84,80.16,74,60,2,1,22,53,BASIC,Debito automatico; Ahorro programado
+6775.2,82.67,21869.93,1,24.63,75.37,184,89,3,0,34,86,ADVANCED,Linea paralela; Productos premium; Credito vehicular
+11529.07,83.36,35324.19,3,35.98,64.02,32,87,3,0,18,83,ADVANCED,Fondos mutuos; Credito vehicular; Cuenta sueldo premium
+6633.34,96.88,2037.7,1,22.77,77.23,84,80,2,0,36,78,ADVANCED,Cuenta sueldo premium; Linea paralela
+11806.64,65.94,0.0,0,36.86,63.14,109,56,2,1,32,39,BASIC,Ahorro programado; Programa de educacion financiera
+9931.68,81.73,5594.74,1,52.43,47.57,192,78,4,0,65,70,ADVANCED,Credito vehicular; Linea paralela; Cuenta sueldo premium; Productos premium
+12959.18,78.56,10731.95,2,69.63,30.37,310,80,2,0,46,59,BASIC,Cuenta de ahorro; Ahorro programado
+3502.56,89.69,0.0,1,47.91,52.09,216,73,3,0,35,68,INTERMEDIATE,Credito de consumo; Seguro de proteccion de pagos; Tarjeta de credito inicial
+3158.48,100.0,0.0,0,24.94,75.06,276,79,3,0,53,77,ADVANCED,Fondos mutuos; Linea paralela; Productos premium
+4808.38,60.88,5781.43,1,33.18,66.82,113,55,2,1,40,41,BASIC,Microcredito controlado; Debito automatico
+7300.15,80.58,13168.48,0,52.72,47.28,360,81,3,0,49,74,ADVANCED,Cuenta sueldo premium; Credito vehicular; Credito hipotecario
+4054.4,87.12,6591.14,1,39.6,60.4,69,76,3,0,25,74,ADVANCED,Credito hipotecario; Productos premium; Linea paralela
+7523.97,47.92,0.0,0,27.49,72.51,25,44,2,1,18,30,BASIC,Ahorro programado; Programa de educacion financiera
+5117.82,71.36,32802.69,0,10.06,89.94,58,89,2,0,30,86,ADVANCED,Fondos mutuos; Credito vehicular
+3838.98,72.19,5557.96,0,54.0,46.0,119,75,2,0,32,68,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal
+6965.05,80.76,3680.02,1,44.79,55.21,172,77,2,0,43,70,ADVANCED,Credito hipotecario; Cuenta sueldo premium
+9446.0,62.5,747.2,1,41.29,58.71,270,53,2,1,40,36,BASIC,Ahorro programado; Programa de educacion financiera
+6103.15,93.67,23746.36,1,13.44,86.56,56,93,2,0,21,92,ADVANCED,Linea paralela; Cuenta sueldo premium
+8714.1,88.94,0.0,0,21.78,78.22,31,75,2,0,19,73,ADVANCED,Productos premium; Credito hipotecario
+7076.19,84.64,17095.04,1,12.47,87.53,158,88,3,0,42,85,ADVANCED,Cuenta sueldo premium; Productos premium; Linea paralela
+12484.84,84.0,0.0,2,26.6,73.4,285,82,3,0,47,75,ADVANCED,Credito vehicular; Linea paralela; Cuenta sueldo premium
+3631.59,66.47,11185.22,1,75.25,24.75,303,73,2,0,43,54,BASIC,Microcredito controlado; Ahorro programado
+9564.27,84.2,16505.57,1,72.49,27.51,255,80,2,0,65,61,BASIC,Programa de educacion financiera; Ahorro programado
+4859.61,73.54,6946.24,6,41.69,58.31,100,62,3,0,31,61,INTERMEDIATE,Consolidacion de deuda; Seguro de proteccion de pagos; Credito de consumo
+2656.0,100.0,8148.5,4,45.14,54.86,83,76,4,0,29,77,INTERMEDIATE,Consolidacion de deuda; Tarjeta de credito inicial; Credito de consumo; Prestamo personal
+4615.64,74.58,7578.7,0,9.89,90.11,236,82,3,0,59,79,ADVANCED,Productos premium; Credito hipotecario; Fondos mutuos
+13013.39,81.17,77660.58,1,30.43,69.57,82,94,3,0,32,87,ADVANCED,Credito hipotecario; Credito vehicular; Cuenta sueldo premium
+6855.11,61.89,23873.39,3,40.95,59.05,261,61,2,1,43,47,BASIC,Microcredito controlado; Ahorro programado
+9122.85,84.04,25777.75,0,53.77,46.23,223,87,3,0,51,80,ADVANCED,Linea paralela; Cuenta sueldo premium; Fondos mutuos
+3271.55,85.62,0.0,4,68.01,31.99,45,60,2,0,25,46,BASIC,Cuenta de ahorro; Debito automatico
+6935.41,73.62,3733.91,0,12.23,87.77,360,60,2,1,66,48,BASIC,Ahorro programado; Programa de educacion financiera
+12077.29,92.83,39097.62,1,11.04,88.96,181,100,2,0,34,96,ADVANCED,Cuenta sueldo premium; Productos premium
+8416.47,65.39,26909.97,0,72.67,27.33,360,79,2,0,70,59,BASIC,Microcredito controlado; Programa de educacion financiera
+9565.45,59.53,44054.75,1,25.07,74.93,89,66,2,1,27,52,BASIC,Ahorro programado; Debito automatico
+13945.29,71.78,43360.64,2,81.73,18.27,101,79,2,0,25,57,BASIC,Ahorro programado; Programa de educacion financiera
+7005.93,100.0,8217.71,0,13.41,86.59,260,91,4,0,45,90,ADVANCED,Credito hipotecario; Credito vehicular; Fondos mutuos; Cuenta sueldo premium
+7764.3,56.5,14007.35,0,27.86,72.14,104,60,2,1,26,46,BASIC,Programa de educacion financiera; Debito automatico
+3675.75,79.72,5985.65,1,13.03,86.97,109,81,2,0,47,79,ADVANCED,Credito vehicular; Productos premium
+8904.2,84.15,0.0,2,43.01,56.99,360,77,3,0,53,69,INTERMEDIATE,Consolidacion de deuda; Credito de consumo; Prestamo personal
+3732.41,57.23,4085.47,1,40.53,59.47,337,53,2,1,49,39,BASIC,Programa de educacion financiera; Cuenta de ahorro
+3707.21,41.74,9997.88,1,78.96,21.04,110,47,2,1,45,18,BASIC,Microcredito controlado; Cuenta de ahorro
+13693.06,80.0,13985.99,1,44.97,55.03,240,83,2,0,40,74,ADVANCED,Credito hipotecario; Linea paralela
+10575.69,65.76,31502.36,0,12.33,87.67,116,72,2,1,41,59,BASIC,Debito automatico; Programa de educacion financiera
+6614.61,77.74,3682.17,1,12.74,87.26,360,60,2,1,56,49,BASIC,Cuenta de ahorro; Programa de educacion financiera
+8625.99,93.7,1187.86,0,12.99,87.01,66,81,3,0,26,79,ADVANCED,Cuenta sueldo premium; Productos premium; Fondos mutuos
+4947.08,64.34,13013.74,6,66.07,33.93,203,40,2,1,69,19,BASIC,Microcredito controlado; Debito automatico
+5377.27,83.31,0.0,0,18.86,81.14,70,75,2,0,22,72,ADVANCED,Linea paralela; Cuenta sueldo premium
+2067.65,97.47,2000.11,1,44.24,55.76,80,76,4,0,23,74,ADVANCED,Productos premium; Credito vehicular; Cuenta sueldo premium; Credito hipotecario
+3709.54,66.55,3333.82,5,44.0,56.0,330,46,2,1,59,36,BASIC,Ahorro programado; Cuenta de ahorro
+16336.47,54.14,62341.96,1,24.94,75.06,111,70,2,1,26,53,BASIC,Microcredito controlado; Programa de educacion financiera
+2648.33,90.12,2182.49,1,19.49,80.51,232,82,2,0,51,80,ADVANCED,Credito hipotecario; Productos premium
+5968.75,100.0,8420.07,2,43.23,56.77,54,81,3,0,21,80,ADVANCED,Fondos mutuos; Credito vehicular; Cuenta sueldo premium
+3503.3,78.01,8461.58,1,47.55,52.45,182,78,3,0,56,73,ADVANCED,Cuenta sueldo premium; Linea paralela; Credito vehicular
+3569.31,81.11,4581.23,0,39.22,60.78,216,77,3,0,37,72,ADVANCED,Credito vehicular; Productos premium; Credito hipotecario
+1675.45,88.64,3509.6,2,30.03,69.97,142,83,3,0,34,81,ADVANCED,Linea paralela; Cuenta sueldo premium; Productos premium
+17138.04,65.89,0.0,1,60.7,39.3,360,77,2,0,58,63,INTERMEDIATE,Consolidacion de deuda; Prestamo personal
+2664.78,69.44,6019.32,2,72.01,27.99,7,42,2,1,20,20,BASIC,Cuenta de ahorro; Microcredito controlado
+2541.0,57.98,3941.1,0,35.94,64.06,153,54,2,1,41,40,BASIC,Cuenta de ahorro; Microcredito controlado
+9988.87,100.0,17787.89,2,13.94,86.06,325,95,3,0,50,94,ADVANCED,Cuenta sueldo premium; Fondos mutuos; Productos premium
+3509.33,64.04,0.0,1,30.78,69.22,332,50,2,1,61,36,BASIC,Programa de educacion financiera; Ahorro programado
+3400.87,79.63,0.0,0,6.33,93.67,79,75,3,0,34,73,ADVANCED,Productos premium; Credito vehicular; Cuenta sueldo premium
+13878.07,93.78,25612.03,1,16.2,83.8,76,90,3,0,39,87,ADVANCED,Linea paralela; Cuenta sueldo premium; Credito hipotecario
+6741.03,76.6,9325.06,0,16.06,83.94,40,80,3,0,25,79,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Fondos mutuos
+4643.05,60.76,11287.89,0,64.13,35.87,20,46,2,1,19,33,BASIC,Debito automatico; Ahorro programado
+7803.02,84.03,22144.83,1,18.45,81.55,51,87,2,0,22,86,ADVANCED,Productos premium; Linea paralela
+7112.17,88.51,6402.54,1,51.4,48.6,257,79,2,0,42,73,ADVANCED,Linea paralela; Credito hipotecario
+6660.05,75.25,10043.17,4,37.89,62.11,169,75,2,0,34,70,INTERMEDIATE,Prestamo personal; Seguro de proteccion de pagos
+4577.2,83.32,18432.72,2,11.19,88.81,242,89,3,0,49,88,ADVANCED,Credito vehicular; Cuenta sueldo premium; Credito hipotecario
+6281.63,89.64,22704.99,0,14.6,85.4,360,91,2,0,67,90,ADVANCED,Productos premium; Fondos mutuos
+4468.46,89.96,5091.59,0,20.51,79.49,111,85,4,0,27,83,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Productos premium; Credito vehicular
+2515.85,85.49,5742.54,0,55.31,44.69,20,75,4,0,21,74,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Credito vehicular; Credito hipotecario
+11771.46,89.84,49575.38,0,11.68,88.32,284,97,2,0,43,94,ADVANCED,Linea paralela; Productos premium
+12890.82,72.46,693.87,1,30.78,69.22,256,80,3,0,65,71,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Linea paralela
+7011.99,76.53,1287.68,0,48.22,51.78,247,74,3,0,51,66,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Seguro de proteccion de pagos
+16339.39,88.18,91447.96,0,10.19,89.81,38,99,4,0,19,95,ADVANCED,Credito vehicular; Linea paralela; Credito hipotecario; Fondos mutuos
+2541.61,66.11,4171.92,1,35.5,64.5,244,75,3,0,39,69,INTERMEDIATE,Credito de consumo; Seguro de proteccion de pagos; Prestamo personal
+10263.73,56.33,27488.64,4,66.48,33.52,360,52,2,1,68,25,BASIC,Cuenta de ahorro; Ahorro programado
+5060.19,87.73,16416.24,1,45.34,54.66,176,84,2,0,31,80,ADVANCED,Productos premium; Credito hipotecario
+6320.49,49.38,14133.74,0,78.06,21.94,187,48,2,1,36,19,BASIC,Debito automatico; Cuenta de ahorro
+4955.88,76.92,0.0,0,14.73,85.27,131,77,2,0,31,72,ADVANCED,Credito hipotecario; Fondos mutuos
+11345.02,51.77,11.24,0,61.97,38.03,178,49,2,1,37,28,BASIC,Ahorro programado; Programa de educacion financiera
+15287.54,83.57,53653.2,2,28.19,71.81,311,97,3,0,62,90,ADVANCED,Credito hipotecario; Fondos mutuos; Cuenta sueldo premium
+12178.24,96.57,112.28,0,5.39,94.61,219,88,3,0,45,84,ADVANCED,Credito hipotecario; Productos premium; Fondos mutuos
+6005.04,69.74,0.0,0,27.42,72.58,225,74,3,0,48,67,INTERMEDIATE,Seguro de proteccion de pagos; Prestamo personal; Credito de consumo
+7648.51,91.38,2280.11,1,36.21,63.79,180,80,4,0,41,74,ADVANCED,Productos premium; Linea paralela; Credito vehicular; Fondos mutuos
+11343.95,93.42,0.0,0,39.65,60.35,360,82,3,0,64,75,ADVANCED,Productos premium; Credito hipotecario; Linea paralela
+5417.31,99.01,10938.26,0,18.74,81.26,130,88,3,0,30,87,ADVANCED,Linea paralela; Productos premium; Credito hipotecario
+15421.58,60.75,18067.57,6,62.06,37.94,154,70,2,0,32,62,INTERMEDIATE,Prestamo personal; Credito de consumo
+4232.6,81.71,2909.3,0,53.14,46.86,360,73,4,0,55,67,INTERMEDIATE,Prestamo personal; Credito de consumo; Consolidacion de deuda; Seguro de proteccion de pagos
+3439.89,65.64,3810.57,6,70.04,29.96,338,60,2,0,60,47,BASIC,Debito automatico; Microcredito controlado
+9052.18,87.24,0.0,1,76.61,23.39,131,72,2,0,58,52,BASIC,Cuenta de ahorro; Ahorro programado
+14095.57,75.39,0.0,0,60.26,39.74,360,76,4,0,54,64,INTERMEDIATE,Seguro de proteccion de pagos; Tarjeta de credito inicial; Prestamo personal; Credito de consumo
+8012.32,75.06,11478.21,1,33.08,66.92,160,84,4,0,31,78,ADVANCED,Productos premium; Credito hipotecario; Cuenta sueldo premium; Credito vehicular
+5567.67,65.72,18496.69,1,40.09,59.91,132,60,2,1,45,47,BASIC,Ahorro programado; Debito automatico
+9033.86,64.48,2459.98,1,36.15,63.85,245,55,2,1,53,39,BASIC,Debito automatico; Cuenta de ahorro
+4595.2,67.3,2329.42,0,35.27,64.73,27,47,2,1,21,36,BASIC,Debito automatico; Ahorro programado
+2763.61,90.92,9092.26,3,49.07,50.93,261,87,2,0,58,83,ADVANCED,Productos premium; Credito hipotecario
+5549.19,75.1,6420.93,2,54.77,45.23,283,77,3,0,49,70,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Credito hipotecario
+7659.88,84.85,5142.98,1,18.17,81.83,360,84,3,0,63,80,ADVANCED,Credito hipotecario; Fondos mutuos; Cuenta sueldo premium
+6644.01,81.69,19827.88,1,34.51,65.49,359,84,2,0,64,80,ADVANCED,Fondos mutuos; Productos premium
+2264.86,83.23,2357.13,1,14.04,85.96,169,83,3,0,59,82,ADVANCED,Credito vehicular; Fondos mutuos; Productos premium
+5667.58,79.4,14702.81,2,52.87,47.13,93,87,3,0,24,79,ADVANCED,Cuenta sueldo premium; Fondos mutuos; Linea paralela
+9722.32,92.54,10757.6,2,30.18,69.82,58,81,3,0,27,78,ADVANCED,Fondos mutuos; Linea paralela; Productos premium
+6501.34,61.24,13857.75,1,65.62,34.38,202,55,2,1,38,28,BASIC,Cuenta de ahorro; Microcredito controlado
+2612.89,56.58,0.0,6,47.48,52.52,67,30,2,1,26,21,BASIC,Cuenta de ahorro; Debito automatico
+1826.87,58.43,5669.75,0,36.02,63.98,57,51,2,1,20,40,BASIC,Debito automatico; Cuenta de ahorro
+2962.01,94.8,16113.05,1,7.21,92.79,274,99,2,0,50,97,ADVANCED,Cuenta sueldo premium; Credito hipotecario
+7052.13,53.01,29314.47,2,68.23,31.77,231,57,2,1,53,29,BASIC,Microcredito controlado; Debito automatico
+15641.03,78.91,20972.27,0,33.79,66.21,150,89,2,0,41,80,ADVANCED,Linea paralela; Credito vehicular
+11406.26,89.46,30587.33,0,37.89,62.11,178,89,2,0,42,84,ADVANCED,Fondos mutuos; Credito hipotecario
+3570.39,79.19,965.41,2,52.01,47.99,99,70,3,0,26,64,INTERMEDIATE,Consolidacion de deuda; Tarjeta de credito inicial; Seguro de proteccion de pagos
+3311.74,48.95,5540.21,6,84.39,15.61,64,29,2,1,28,7,BASIC,Ahorro programado; Cuenta de ahorro
+7256.18,86.65,1813.79,1,35.37,64.63,183,79,4,0,40,73,ADVANCED,Fondos mutuos; Productos premium; Credito vehicular; Cuenta sueldo premium
+6580.11,81.93,4735.56,1,27.41,72.59,125,80,3,0,30,75,ADVANCED,Fondos mutuos; Productos premium; Linea paralela
+4833.86,79.73,4270.33,2,23.26,76.74,43,76,3,0,21,74,ADVANCED,Productos premium; Credito hipotecario; Credito vehicular
+2148.3,87.62,1996.39,3,27.78,72.22,43,75,4,0,29,75,ADVANCED,Credito vehicular; Productos premium; Cuenta sueldo premium; Linea paralela
+9774.01,100.0,32955.97,0,25.01,74.99,188,95,3,0,64,93,ADVANCED,Linea paralela; Credito vehicular; Credito hipotecario
+15525.68,79.52,15195.38,4,63.62,36.38,133,57,2,1,49,40,BASIC,Microcredito controlado; Ahorro programado
+2392.3,67.17,8991.75,4,33.55,66.45,213,63,2,1,36,51,BASIC,Microcredito controlado; Cuenta de ahorro
+9277.18,83.41,66042.76,3,29.7,70.3,167,97,3,0,44,89,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Productos premium
+9405.49,82.12,0.0,1,48.04,51.96,161,76,3,0,51,68,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Seguro de proteccion de pagos
+3775.37,90.41,0.0,1,48.34,51.66,51,69,4,0,32,66,INTERMEDIATE,Consolidacion de deuda; Prestamo personal; Seguro de proteccion de pagos; Tarjeta de credito inicial
+5281.06,95.24,0.0,1,35.34,64.66,97,76,3,0,30,73,ADVANCED,Productos premium; Credito vehicular; Cuenta sueldo premium
+4679.66,62.82,7842.16,2,25.59,74.41,51,55,2,1,27,45,BASIC,Cuenta de ahorro; Debito automatico
+1772.47,83.2,3702.78,1,44.61,55.39,26,71,3,0,22,70,ADVANCED,Credito vehicular; Credito hipotecario; Cuenta sueldo premium
+4298.67,89.01,1356.46,1,10.31,89.69,227,81,3,0,38,79,ADVANCED,Linea paralela; Cuenta sueldo premium; Credito vehicular
+3903.38,57.17,2999.49,1,32.18,67.82,270,51,2,1,48,37,BASIC,Programa de educacion financiera; Cuenta de ahorro
+5153.62,87.24,0.0,2,41.13,58.87,159,75,3,0,37,69,INTERMEDIATE,Seguro de proteccion de pagos; Tarjeta de credito inicial; Prestamo personal
+12539.08,85.59,28517.89,0,33.52,66.48,218,90,2,0,61,84,ADVANCED,Fondos mutuos; Credito vehicular
+8846.22,74.87,1745.02,1,74.56,25.44,360,71,2,0,53,50,BASIC,Ahorro programado; Programa de educacion financiera
+2287.15,78.24,10215.0,1,59.25,40.75,225,83,2,0,38,76,ADVANCED,Credito hipotecario; Cuenta sueldo premium
+5273.16,74.32,0.0,1,15.5,84.5,360,76,3,0,56,71,ADVANCED,Fondos mutuos; Linea paralela; Cuenta sueldo premium
+3992.36,64.11,5341.44,5,48.64,51.36,251,65,3,0,43,61,INTERMEDIATE,Tarjeta de credito inicial; Seguro de proteccion de pagos; Consolidacion de deuda
+10201.89,78.77,31002.71,1,22.43,77.57,63,85,2,0,26,82,ADVANCED,Credito hipotecario; Linea paralela
+9762.22,82.18,6262.71,3,41.3,58.7,123,82,3,0,37,75,ADVANCED,Productos premium; Fondos mutuos; Cuenta sueldo premium
+9412.96,80.28,52467.14,0,42.16,57.84,222,90,3,0,35,83,ADVANCED,Linea paralela; Credito vehicular; Cuenta sueldo premium
+10831.42,48.33,49396.96,2,75.24,24.76,279,60,2,1,51,28,BASIC,Ahorro programado; Programa de educacion financiera
+5511.21,89.64,6161.35,2,48.16,51.84,51,73,2,0,26,70,ADVANCED,Credito hipotecario; Fondos mutuos
+11138.01,81.37,15545.81,1,9.0,91.0,210,88,2,0,56,84,ADVANCED,Credito hipotecario; Fondos mutuos
+13811.4,93.61,22933.09,0,50.92,49.08,350,90,3,0,46,83,ADVANCED,Linea paralela; Fondos mutuos; Credito vehicular
+7117.58,69.92,12050.12,2,62.83,37.17,44,73,4,0,20,67,INTERMEDIATE,Credito de consumo; Prestamo personal; Consolidacion de deuda; Tarjeta de credito inicial
+1366.4,70.03,2053.98,3,56.31,43.69,150,71,2,0,32,64,INTERMEDIATE,Credito de consumo; Consolidacion de deuda
+1675.8,93.44,2497.57,0,30.07,69.93,94,78,4,0,29,77,ADVANCED,Productos premium; Fondos mutuos; Cuenta sueldo premium; Credito hipotecario
+8611.09,61.78,10517.44,1,62.39,37.61,111,56,2,1,29,39,BASIC,Debito automatico; Microcredito controlado
+5460.61,56.27,1577.08,3,20.07,79.93,90,51,2,1,26,38,BASIC,Programa de educacion financiera; Debito automatico
+6821.01,87.27,0.0,5,32.72,67.28,63,66,3,0,26,66,INTERMEDIATE,Tarjeta de credito inicial; Credito de consumo; Consolidacion de deuda
+6238.93,82.42,35256.71,5,35.32,64.68,134,85,3,0,45,82,INTERMEDIATE,Credito de consumo; Prestamo personal; Tarjeta de credito inicial
+14752.56,85.56,88004.48,1,24.62,75.38,141,99,4,0,28,92,ADVANCED,Productos premium; Fondos mutuos; Credito hipotecario; Cuenta sueldo premium
+3409.48,89.26,5871.85,1,17.72,82.28,168,86,3,0,37,85,ADVANCED,Linea paralela; Productos premium; Fondos mutuos
+4615.6,76.04,11971.81,4,72.45,27.55,9,64,2,0,23,52,BASIC,Programa de educacion financiera; Debito automatico
+5585.29,90.23,24569.13,1,26.43,73.57,68,86,3,0,33,85,ADVANCED,Cuenta sueldo premium; Credito vehicular; Credito hipotecario
+12590.3,74.93,36672.43,1,70.41,29.59,226,81,2,0,44,60,BASIC,Cuenta de ahorro; Ahorro programado
+6657.25,88.99,0.0,1,36.84,63.16,95,76,4,0,32,71,ADVANCED,Fondos mutuos; Credito vehicular; Productos premium; Linea paralela
+15156.15,96.23,11464.77,0,22.31,77.69,344,91,3,0,52,86,ADVANCED,Credito hipotecario; Fondos mutuos; Cuenta sueldo premium
+12442.91,73.19,16534.0,1,38.51,61.49,360,86,2,0,63,78,ADVANCED,Linea paralela; Cuenta sueldo premium
+5648.65,56.32,15189.68,1,42.27,57.73,206,55,2,1,45,40,BASIC,Ahorro programado; Debito automatico
+11863.9,71.91,0.0,0,32.77,67.23,105,77,2,0,26,68,INTERMEDIATE,Credito de consumo; Prestamo personal
+6685.62,90.06,12548.7,0,10.49,89.51,135,87,3,0,35,85,ADVANCED,Fondos mutuos; Credito vehicular; Credito hipotecario
+4422.94,86.0,16370.62,3,26.66,73.34,156,86,2,0,40,84,ADVANCED,Productos premium; Cuenta sueldo premium
+3106.79,81.15,6233.48,1,31.83,68.17,54,78,2,0,26,77,ADVANCED,Linea paralela; Credito vehicular
+6457.84,81.3,12219.53,1,59.42,40.58,132,78,3,0,47,71,ADVANCED,Fondos mutuos; Linea paralela; Productos premium
+4167.82,96.56,13626.57,3,24.6,75.4,157,89,3,0,42,88,ADVANCED,Credito hipotecario; Credito vehicular; Fondos mutuos
+4892.85,86.37,10815.19,0,32.21,67.79,360,85,4,0,67,82,ADVANCED,Linea paralela; Cuenta sueldo premium; Credito hipotecario; Productos premium
+8715.84,55.74,5535.94,6,70.01,29.99,253,37,2,1,38,13,BASIC,Microcredito controlado; Debito automatico
+10160.22,85.11,14835.57,0,31.5,68.5,44,80,3,0,20,77,ADVANCED,Credito vehicular; Linea paralela; Cuenta sueldo premium
+2338.63,74.23,4493.23,1,51.58,48.42,39,71,3,0,25,68,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Seguro de proteccion de pagos
+4184.89,52.29,11230.39,4,74.76,25.24,146,46,2,1,48,20,BASIC,Microcredito controlado; Ahorro programado
+4244.57,58.67,14216.59,5,63.22,36.78,73,68,3,0,26,63,INTERMEDIATE,Tarjeta de credito inicial; Seguro de proteccion de pagos; Consolidacion de deuda
+8223.84,55.68,32430.26,1,18.63,81.37,192,64,2,1,53,50,BASIC,Debito automatico; Programa de educacion financiera
+4273.52,88.96,2856.06,1,10.35,89.65,115,82,4,0,35,80,ADVANCED,Productos premium; Credito hipotecario; Fondos mutuos; Credito vehicular
+12720.83,89.5,22588.07,1,33.97,66.03,88,85,3,0,40,79,ADVANCED,Cuenta sueldo premium; Linea paralela; Productos premium
+9312.06,43.9,0.0,1,70.82,29.18,334,44,2,1,48,12,BASIC,Ahorro programado; Microcredito controlado
+10597.52,91.29,0.0,0,33.14,66.86,181,82,2,0,42,75,ADVANCED,Productos premium; Linea paralela
+13694.92,88.46,19707.93,1,21.85,78.15,86,92,3,0,28,88,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Linea paralela
+5983.93,83.3,5952.7,1,67.96,32.04,67,70,2,0,28,54,BASIC,Debito automatico; Ahorro programado
+6636.08,74.88,17456.14,0,22.89,77.11,153,88,3,0,39,84,ADVANCED,Credito vehicular; Fondos mutuos; Cuenta sueldo premium
+4288.3,52.45,14178.94,3,60.53,39.47,302,52,2,1,48,35,BASIC,Cuenta de ahorro; Microcredito controlado
+5206.41,95.41,16352.6,1,26.09,73.91,13,89,4,0,18,88,ADVANCED,Productos premium; Credito vehicular; Fondos mutuos; Cuenta sueldo premium
+2262.38,48.77,4679.12,1,18.24,81.76,85,55,2,1,31,44,BASIC,Cuenta de ahorro; Ahorro programado
+6518.52,82.05,9927.28,1,76.93,23.07,360,74,2,0,57,55,BASIC,Programa de educacion financiera; Ahorro programado
+5674.12,80.99,14559.28,1,43.74,56.26,33,76,4,0,24,73,ADVANCED,Credito hipotecario; Credito vehicular; Linea paralela; Productos premium
+12114.73,81.94,0.0,1,35.67,64.33,277,80,4,0,47,72,ADVANCED,Credito vehicular; Fondos mutuos; Cuenta sueldo premium; Linea paralela
+11016.26,56.84,22144.96,0,70.37,29.63,1,46,2,1,19,20,BASIC,Debito automatico; Microcredito controlado
+3815.37,72.92,10994.82,6,30.91,69.09,209,48,2,1,36,42,BASIC,Debito automatico; Microcredito controlado
+2712.32,83.48,6112.59,4,65.11,34.89,276,72,2,0,47,58,BASIC,Programa de educacion financiera; Cuenta de ahorro
+2298.01,89.23,2586.42,0,30.79,69.21,15,71,2,0,19,71,ADVANCED,Credito vehicular; Credito hipotecario
+8195.16,92.39,16479.34,1,10.07,89.93,114,96,2,0,34,94,ADVANCED,Linea paralela; Cuenta sueldo premium
+13210.62,76.39,763.04,1,26.89,73.11,72,78,3,0,30,71,ADVANCED,Credito vehicular; Productos premium; Credito hipotecario
+7854.08,77.58,4803.25,1,66.03,33.97,233,75,2,0,52,56,BASIC,Ahorro programado; Cuenta de ahorro
+1437.81,53.44,2809.02,1,73.86,26.14,360,45,2,1,63,18,BASIC,Debito automatico; Microcredito controlado
+11805.93,91.87,23574.7,1,32.64,67.36,358,92,3,0,55,87,ADVANCED,Fondos mutuos; Credito vehicular; Linea paralela
+6300.62,68.42,6823.86,0,17.53,82.47,103,77,2,0,36,72,ADVANCED,Credito vehicular; Credito hipotecario
+4023.59,95.8,2769.46,2,27.9,72.1,262,80,2,0,38,77,ADVANCED,Linea paralela; Cuenta sueldo premium
+8903.05,88.18,0.0,1,22.37,77.63,260,81,4,0,43,76,ADVANCED,Productos premium; Cuenta sueldo premium; Linea paralela; Fondos mutuos
+4501.11,90.46,20271.11,0,25.64,74.36,116,89,3,0,48,87,ADVANCED,Credito hipotecario; Productos premium; Linea paralela
+3201.97,93.78,5707.82,0,32.66,67.34,125,86,4,0,29,85,ADVANCED,Credito vehicular; Productos premium; Linea paralela; Credito hipotecario
+11318.1,75.6,28771.6,1,44.37,55.63,360,84,4,0,65,76,ADVANCED,Linea paralela; Cuenta sueldo premium; Productos premium; Credito vehicular
+11430.77,76.65,54986.77,3,67.57,32.43,103,88,2,0,27,67,BASIC,Cuenta de ahorro; Microcredito controlado
+6048.26,77.51,6132.69,0,31.74,68.26,85,80,2,0,27,76,ADVANCED,Fondos mutuos; Cuenta sueldo premium
+7730.61,57.78,8223.66,3,28.15,71.85,178,59,2,1,42,45,BASIC,Programa de educacion financiera; Ahorro programado
+9149.11,86.48,23270.48,1,39.76,60.24,64,89,2,0,28,84,ADVANCED,Cuenta sueldo premium; Credito hipotecario
+10237.78,62.84,28381.89,3,26.6,73.4,88,64,2,1,24,51,BASIC,Ahorro programado; Debito automatico
+8662.56,90.28,22350.56,4,50.07,49.93,106,83,4,0,44,80,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Seguro de proteccion de pagos; Prestamo personal
+7728.61,90.32,9154.67,0,57.56,42.44,263,81,2,0,42,75,ADVANCED,Productos premium; Credito vehicular
+3541.56,83.76,5160.77,0,30.64,69.36,208,81,2,0,41,78,ADVANCED,Linea paralela; Credito hipotecario
+9109.82,99.87,23576.62,0,22.16,77.84,226,91,3,0,58,88,ADVANCED,Credito hipotecario; Productos premium; Linea paralela
+1610.21,50.69,6913.71,4,52.77,47.23,360,56,2,1,52,40,BASIC,Cuenta de ahorro; Programa de educacion financiera
+12598.66,90.26,0.0,1,32.39,67.61,91,81,3,0,32,75,ADVANCED,Credito hipotecario; Productos premium; Fondos mutuos
+11034.79,54.6,17978.94,2,32.54,67.46,341,62,2,1,46,45,BASIC,Programa de educacion financiera; Debito automatico
+5289.89,63.87,14738.85,1,56.83,43.17,55,71,2,0,31,65,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal
+5499.67,85.24,2150.32,1,12.76,87.24,164,82,3,0,64,79,ADVANCED,Cuenta sueldo premium; Fondos mutuos; Credito hipotecario
+6875.01,69.29,26211.19,1,23.34,76.66,98,64,2,1,26,53,BASIC,Microcredito controlado; Cuenta de ahorro
+10639.59,79.35,24563.83,6,74.72,25.28,68,69,2,0,35,56,BASIC,Cuenta de ahorro; Programa de educacion financiera
+11667.32,57.16,0.0,1,42.91,57.09,193,53,2,1,42,34,BASIC,Cuenta de ahorro; Ahorro programado
+3659.2,87.58,8830.12,1,30.81,69.19,122,86,3,0,34,84,ADVANCED,Credito vehicular; Fondos mutuos; Credito hipotecario
+12851.39,70.45,0.0,4,28.4,71.6,219,55,2,1,42,41,BASIC,Cuenta de ahorro; Debito automatico
+6011.27,58.38,0.0,2,26.57,73.43,101,51,2,1,44,36,BASIC,Cuenta de ahorro; Debito automatico
+8260.9,87.38,0.0,3,23.06,76.94,51,76,4,0,23,73,ADVANCED,Credito vehicular; Productos premium; Credito hipotecario; Fondos mutuos
+7225.53,78.33,10191.12,1,14.44,85.56,305,83,4,0,43,79,ADVANCED,Productos premium; Linea paralela; Credito vehicular; Cuenta sueldo premium
+1933.67,86.98,428.8,6,44.94,55.06,253,61,2,0,43,62,INTERMEDIATE,Tarjeta de credito inicial; Credito de consumo
+15287.32,77.21,19659.23,0,25.3,74.7,78,85,3,0,24,78,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Credito vehicular
+6905.07,81.62,12226.26,0,51.43,48.57,105,82,4,0,28,77,ADVANCED,Linea paralela; Productos premium; Fondos mutuos; Cuenta sueldo premium
+7545.4,51.85,3811.87,0,48.57,51.43,249,49,2,1,37,31,BASIC,Programa de educacion financiera; Ahorro programado
+6436.84,76.1,20373.6,3,33.7,66.3,75,80,4,0,26,76,ADVANCED,Productos premium; Fondos mutuos; Cuenta sueldo premium; Linea paralela
+6813.45,84.69,17568.16,3,63.32,36.68,97,78,4,0,32,72,ADVANCED,Linea paralela; Cuenta sueldo premium; Credito hipotecario; Fondos mutuos
+5552.12,64.21,0.0,0,20.98,79.02,102,52,2,1,29,39,BASIC,Debito automatico; Cuenta de ahorro
+3211.16,72.8,6247.05,1,51.54,48.46,289,79,4,0,56,73,ADVANCED,Credito hipotecario; Linea paralela; Fondos mutuos; Productos premium
+7246.6,79.65,5997.19,0,41.79,58.21,217,78,3,0,38,71,ADVANCED,Productos premium; Fondos mutuos; Credito hipotecario
+4582.12,83.98,26838.75,3,38.54,61.46,328,90,3,0,64,84,ADVANCED,Credito vehicular; Cuenta sueldo premium; Productos premium
+15365.04,83.96,55564.3,3,76.13,23.87,135,87,2,0,36,67,BASIC,Microcredito controlado; Ahorro programado
+7647.49,81.76,11777.9,1,32.73,67.27,96,81,3,0,37,76,ADVANCED,Cuenta sueldo premium; Productos premium; Fondos mutuos
+10460.01,74.41,5725.1,0,41.76,58.24,329,79,2,0,44,71,ADVANCED,Linea paralela; Productos premium
+10530.17,58.12,4083.69,0,54.99,45.01,97,50,2,1,29,32,BASIC,Ahorro programado; Microcredito controlado
+5083.46,91.74,0.0,3,43.43,56.57,94,74,3,0,26,69,INTERMEDIATE,Tarjeta de credito inicial; Consolidacion de deuda; Prestamo personal
+13556.21,76.87,0.0,0,45.84,54.16,122,79,3,0,40,69,INTERMEDIATE,Credito de consumo; Tarjeta de credito inicial; Prestamo personal
+5572.58,55.72,0.0,1,34.86,65.14,265,50,2,1,43,34,BASIC,Programa de educacion financiera; Microcredito controlado
+4840.8,68.69,7211.82,1,45.73,54.27,131,74,3,0,43,66,INTERMEDIATE,Consolidacion de deuda; Prestamo personal; Seguro de proteccion de pagos
+14623.66,96.47,21341.55,2,26.85,73.15,79,91,4,0,29,87,ADVANCED,Productos premium; Credito hipotecario; Fondos mutuos; Cuenta sueldo premium
+3063.06,84.96,2560.04,1,50.78,49.22,139,75,2,0,43,70,ADVANCED,Cuenta sueldo premium; Linea paralela
+4503.66,85.53,0.0,3,41.48,58.52,31,68,2,0,22,65,INTERMEDIATE,Prestamo personal; Credito de consumo
+13501.15,36.85,8703.56,1,72.85,27.15,65,44,2,1,37,12,BASIC,Microcredito controlado; Cuenta de ahorro
+7447.25,67.29,0.0,2,40.15,59.85,188,73,3,0,36,64,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal; Consolidacion de deuda
+3832.07,65.16,6560.46,6,45.95,54.05,72,41,2,1,25,34,BASIC,Programa de educacion financiera; Cuenta de ahorro
+3300.59,90.66,8733.54,4,54.21,45.79,360,75,4,0,53,73,INTERMEDIATE,Consolidacion de deuda; Credito de consumo; Seguro de proteccion de pagos; Tarjeta de credito inicial
+4657.18,62.49,2823.1,4,25.47,74.53,103,50,2,1,33,39,BASIC,Microcredito controlado; Debito automatico
+6454.51,62.79,5887.84,0,32.81,67.19,360,56,2,1,68,41,BASIC,Programa de educacion financiera; Debito automatico
+2543.5,79.37,4839.85,0,43.84,56.16,67,76,3,0,28,74,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Fondos mutuos
+4094.78,84.98,4162.88,0,49.55,50.45,226,77,2,0,47,72,ADVANCED,Fondos mutuos; Linea paralela
+14077.91,90.33,0.0,3,23.28,76.72,241,86,3,0,59,79,ADVANCED,Cuenta sueldo premium; Productos premium; Credito vehicular
+9838.73,73.3,4433.02,0,31.29,68.71,50,75,2,0,21,70,ADVANCED,Credito vehicular; Linea paralela
+12963.55,85.52,18502.32,1,33.88,66.12,181,66,2,1,39,52,BASIC,Programa de educacion financiera; Cuenta de ahorro
+12702.9,47.52,76539.06,1,57.69,42.31,113,67,2,1,33,45,BASIC,Cuenta de ahorro; Programa de educacion financiera
+7173.36,72.74,19226.16,1,39.12,60.88,221,83,2,0,38,77,ADVANCED,Credito vehicular; Linea paralela
+5687.93,83.45,9934.86,4,45.98,54.02,251,81,3,0,46,78,INTERMEDIATE,Credito de consumo; Seguro de proteccion de pagos; Prestamo personal
+8295.78,74.21,0.0,1,13.78,86.22,122,79,4,0,40,73,ADVANCED,Credito hipotecario; Linea paralela; Fondos mutuos; Credito vehicular
+12917.32,76.83,27954.03,6,43.45,56.55,351,73,3,0,47,70,INTERMEDIATE,Seguro de proteccion de pagos; Tarjeta de credito inicial; Prestamo personal
+7741.71,57.03,5244.26,3,78.39,21.61,90,45,2,1,31,16,BASIC,Ahorro programado; Debito automatico
+11053.17,62.35,8255.15,4,62.61,37.39,172,49,2,1,48,32,BASIC,Microcredito controlado; Debito automatico
+5702.89,72.0,37441.11,6,45.45,54.55,360,56,2,1,65,46,BASIC,Ahorro programado; Programa de educacion financiera
+9739.47,57.47,0.0,0,44.49,55.51,58,47,2,1,32,31,BASIC,Ahorro programado; Programa de educacion financiera
+10114.67,83.13,16402.12,6,57.72,42.28,184,69,4,0,70,66,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal; Consolidacion de deuda; Seguro de proteccion de pagos
+16876.81,88.71,12430.0,0,7.81,92.19,358,94,2,0,68,88,ADVANCED,Productos premium; Fondos mutuos
+6994.21,78.28,0.0,0,16.41,83.59,217,79,3,0,43,74,ADVANCED,Linea paralela; Credito vehicular; Credito hipotecario
+4670.61,90.39,1743.84,0,28.14,71.86,360,79,4,0,68,75,ADVANCED,Credito hipotecario; Productos premium; Credito vehicular; Fondos mutuos
+6769.51,93.69,11737.13,1,9.66,90.34,105,91,3,0,29,91,ADVANCED,Linea paralela; Fondos mutuos; Productos premium
+3262.82,72.37,10331.98,5,53.13,46.87,99,73,4,0,35,70,INTERMEDIATE,Prestamo personal; Credito de consumo; Seguro de proteccion de pagos; Consolidacion de deuda
+9758.82,80.3,468.15,3,39.12,60.88,360,78,4,0,65,70,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Fondos mutuos; Linea paralela
+7234.27,88.19,13906.58,1,40.06,59.94,109,84,2,0,44,80,ADVANCED,Cuenta sueldo premium; Productos premium
+3781.33,94.02,12670.34,1,36.24,63.76,119,90,4,0,34,87,ADVANCED,Linea paralela; Cuenta sueldo premium; Fondos mutuos; Productos premium
+15873.14,92.12,0.0,1,52.81,47.19,234,83,4,0,64,73,ADVANCED,Credito vehicular; Credito hipotecario; Productos premium; Fondos mutuos
+5470.65,88.09,0.0,0,29.42,70.58,107,77,3,0,30,73,ADVANCED,Credito hipotecario; Linea paralela; Credito vehicular
+8339.12,85.01,37226.48,0,19.96,80.04,52,90,3,0,22,88,ADVANCED,Credito vehicular; Productos premium; Credito hipotecario
+3606.44,45.03,1812.55,6,29.64,70.36,208,36,2,1,35,26,BASIC,Programa de educacion financiera; Cuenta de ahorro
+6769.12,80.23,9618.82,4,58.68,41.32,255,75,2,0,49,70,INTERMEDIATE,Credito de consumo; Consolidacion de deuda
+3539.43,82.28,10024.87,0,31.01,68.99,185,88,4,0,53,84,ADVANCED,Credito hipotecario; Linea paralela; Cuenta sueldo premium; Credito vehicular
+6200.39,91.15,12765.55,0,49.68,50.32,153,85,4,0,39,81,ADVANCED,Credito hipotecario; Productos premium; Fondos mutuos; Linea paralela
+6866.54,88.12,3665.78,1,21.02,78.98,286,83,2,0,42,79,ADVANCED,Linea paralela; Fondos mutuos
+14206.7,61.33,44036.71,1,23.51,76.49,123,67,2,1,26,51,BASIC,Microcredito controlado; Programa de educacion financiera
+9330.79,78.81,12953.95,0,19.07,80.93,293,86,2,0,60,81,ADVANCED,Credito hipotecario; Credito vehicular
+2913.96,75.75,7781.97,1,10.06,89.94,91,85,3,0,38,84,ADVANCED,Fondos mutuos; Credito hipotecario; Linea paralela
+9228.46,74.69,37748.68,1,41.33,58.67,54,83,4,0,30,78,ADVANCED,Credito hipotecario; Credito vehicular; Productos premium; Fondos mutuos
+3388.4,89.97,24194.16,1,32.07,67.93,330,94,3,0,45,89,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Linea paralela
+10895.71,85.58,2932.1,0,17.89,82.11,360,84,3,0,62,78,ADVANCED,Credito vehicular; Fondos mutuos; Linea paralela
+10596.29,68.22,11473.81,4,35.85,64.15,99,54,2,1,36,41,BASIC,Debito automatico; Programa de educacion financiera
+4773.2,51.75,25455.91,4,27.79,72.21,88,60,2,1,27,46,BASIC,Cuenta de ahorro; Debito automatico
+4012.59,58.63,0.0,1,60.48,39.52,56,41,2,1,23,25,BASIC,Debito automatico; Microcredito controlado
+4841.58,70.94,0.0,1,21.93,78.07,189,54,2,1,65,41,BASIC,Programa de educacion financiera; Debito automatico
+6299.73,85.06,4705.63,6,73.92,26.08,158,62,2,0,32,49,BASIC,Debito automatico; Programa de educacion financiera
+7334.0,62.42,52006.32,1,52.18,47.82,199,88,2,0,57,76,ADVANCED,Linea paralela; Fondos mutuos
+2376.47,70.59,489.15,4,38.59,61.41,86,64,3,0,23,61,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Tarjeta de credito inicial
+4631.06,70.63,2515.52,6,60.81,39.19,33,32,2,1,21,24,BASIC,Debito automatico; Programa de educacion financiera
+7143.92,75.51,18608.53,3,23.77,76.23,360,84,4,0,57,79,ADVANCED,Credito vehicular; Fondos mutuos; Productos premium; Credito hipotecario
+11758.95,86.18,28509.26,0,23.6,76.4,58,92,3,0,28,88,ADVANCED,Fondos mutuos; Linea paralela; Cuenta sueldo premium
+16669.15,57.3,58044.1,6,48.31,51.69,43,49,2,1,27,38,BASIC,Debito automatico; Microcredito controlado
+8212.78,54.11,11355.99,1,60.33,39.67,128,52,2,1,28,34,BASIC,Programa de educacion financiera; Microcredito controlado
+9900.39,60.89,29417.88,2,33.96,66.04,165,62,2,1,45,47,BASIC,Debito automatico; Ahorro programado
+8453.32,54.27,15670.48,6,83.22,16.78,360,38,2,1,68,13,BASIC,Microcredito controlado; Programa de educacion financiera
+7760.75,77.81,9807.12,0,34.15,65.85,82,77,3,0,35,72,ADVANCED,Linea paralela; Fondos mutuos; Cuenta sueldo premium
+12975.11,87.13,20075.29,1,23.53,76.47,97,87,3,0,27,82,ADVANCED,Credito hipotecario; Credito vehicular; Cuenta sueldo premium
+9158.81,31.63,51896.07,5,77.09,22.91,92,45,2,1,27,16,BASIC,Debito automatico; Ahorro programado
+9007.53,90.96,13062.57,0,25.66,74.34,17,80,3,0,18,79,ADVANCED,Fondos mutuos; Credito hipotecario; Linea paralela
+14404.71,85.7,4481.87,0,22.49,77.51,200,86,4,0,63,79,ADVANCED,Fondos mutuos; Credito vehicular; Linea paralela; Productos premium
+12757.99,52.05,40666.48,1,63.49,36.51,287,58,2,1,70,38,BASIC,Debito automatico; Cuenta de ahorro
+4733.0,85.43,14241.1,3,70.05,29.95,224,84,2,0,62,66,BASIC,Cuenta de ahorro; Debito automatico
+15325.02,74.56,0.0,0,44.44,55.56,145,80,3,0,33,69,INTERMEDIATE,Seguro de proteccion de pagos; Prestamo personal; Credito de consumo
+12168.09,85.61,0.0,1,43.29,56.71,70,77,3,0,33,70,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Fondos mutuos
+16507.39,60.54,102116.64,6,45.99,54.01,360,63,2,1,58,47,BASIC,Cuenta de ahorro; Programa de educacion financiera
+5994.73,92.64,10438.71,3,49.61,50.39,61,77,3,0,27,74,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Credito vehicular
+11370.09,83.49,0.0,1,44.0,56.0,189,79,3,0,36,70,ADVANCED,Credito vehicular; Productos premium; Fondos mutuos
+4464.88,88.52,7540.8,1,36.62,63.38,147,60,2,1,41,49,BASIC,Ahorro programado; Cuenta de ahorro
+7943.0,98.73,22588.64,1,45.8,54.2,141,88,4,0,31,84,ADVANCED,Credito hipotecario; Linea paralela; Productos premium; Credito vehicular
+11195.22,84.07,24403.58,2,57.53,42.47,135,86,3,0,44,78,ADVANCED,Credito hipotecario; Credito vehicular; Productos premium
+4540.49,82.29,12953.38,0,23.96,76.04,91,85,3,0,36,84,ADVANCED,Linea paralela; Credito hipotecario; Productos premium
+4488.13,86.96,3476.1,1,40.86,59.14,360,78,2,0,53,73,ADVANCED,Credito hipotecario; Linea paralela
+8921.82,75.61,22367.06,0,56.3,43.7,147,85,2,0,44,77,ADVANCED,Linea paralela; Cuenta sueldo premium
+4144.27,85.65,7299.74,5,36.89,63.11,156,74,3,0,29,74,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal; Seguro de proteccion de pagos
+15665.43,79.7,35814.21,1,55.31,44.69,63,87,2,0,23,79,ADVANCED,Cuenta sueldo premium; Fondos mutuos
+9636.27,88.55,22985.25,1,13.75,86.25,26,83,3,0,22,83,ADVANCED,Productos premium; Fondos mutuos; Credito vehicular
+9886.19,72.15,10668.82,1,41.36,58.64,163,79,3,0,38,71,ADVANCED,Productos premium; Linea paralela; Cuenta sueldo premium
+6867.04,63.51,20064.66,0,43.78,56.22,102,62,2,1,26,48,BASIC,Debito automatico; Microcredito controlado
+11012.03,86.06,0.0,1,22.45,77.55,244,82,3,0,48,76,ADVANCED,Linea paralela; Cuenta sueldo premium; Productos premium
+5450.55,95.6,5530.64,0,5.07,94.93,183,89,3,0,40,89,ADVANCED,Linea paralela; Fondos mutuos; Productos premium
+4838.02,90.85,1524.64,6,45.15,54.85,360,64,2,0,62,64,INTERMEDIATE,Seguro de proteccion de pagos; Prestamo personal
+13319.96,70.21,32851.69,3,57.81,42.19,318,81,3,0,65,70,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Fondos mutuos
+2904.75,90.33,5787.36,1,36.69,63.31,198,82,4,0,37,79,ADVANCED,Linea paralela; Fondos mutuos; Productos premium; Credito hipotecario
+9763.36,87.11,0.0,1,49.75,50.25,118,77,2,0,28,69,INTERMEDIATE,Consolidacion de deuda; Prestamo personal
+9071.38,89.63,0.0,4,30.73,69.27,360,76,4,0,70,72,INTERMEDIATE,Tarjeta de credito inicial; Credito de consumo; Consolidacion de deuda; Prestamo personal
+5313.17,93.89,9465.69,0,9.32,90.68,224,87,2,0,40,86,ADVANCED,Productos premium; Cuenta sueldo premium
+5677.78,46.31,21166.04,1,83.65,16.35,143,50,2,1,29,20,BASIC,Cuenta de ahorro; Ahorro programado
+5574.78,100.0,12179.09,1,14.79,85.21,198,92,4,0,53,92,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Fondos mutuos; Linea paralela
+5945.05,74.95,18390.68,0,16.45,83.55,61,61,2,1,25,52,BASIC,Debito automatico; Programa de educacion financiera
+4412.18,85.84,12248.55,1,55.28,44.72,142,83,3,0,30,78,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Productos premium
+9745.78,54.66,49795.31,6,66.86,33.14,141,50,2,1,35,25,BASIC,Microcredito controlado; Ahorro programado
+4317.89,86.41,4950.28,3,22.54,77.46,99,79,3,0,38,76,ADVANCED,Credito hipotecario; Fondos mutuos; Credito vehicular
+5410.35,73.88,17601.0,2,14.53,85.47,97,64,2,1,28,55,BASIC,Debito automatico; Microcredito controlado
+6008.64,61.23,23383.08,4,55.28,44.72,178,55,2,1,46,41,BASIC,Ahorro programado; Microcredito controlado
+7389.34,70.54,22188.15,0,49.66,50.34,141,81,4,0,28,74,ADVANCED,Credito hipotecario; Credito vehicular; Productos premium; Linea paralela
+15894.25,56.58,0.0,5,42.17,57.83,236,49,2,1,42,32,BASIC,Cuenta de ahorro; Debito automatico
+5070.1,81.73,3158.11,1,34.83,65.17,170,77,4,0,38,72,ADVANCED,Credito hipotecario; Linea paralela; Fondos mutuos; Credito vehicular
+11631.4,63.35,0.0,1,55.06,44.94,302,53,2,1,58,34,BASIC,Ahorro programado; Microcredito controlado
+10852.57,65.0,13287.38,6,64.91,35.09,23,38,2,1,21,28,BASIC,Programa de educacion financiera; Debito automatico
+4713.03,67.46,17761.76,1,66.29,33.71,315,78,2,0,48,60,BASIC,Ahorro programado; Programa de educacion financiera
+4904.03,44.65,19319.19,2,55.35,44.65,94,52,2,1,29,36,BASIC,Cuenta de ahorro; Ahorro programado
+3612.65,85.34,0.0,3,65.62,34.38,147,70,2,0,41,52,BASIC,Programa de educacion financiera; Debito automatico
+5962.68,89.76,16882.71,1,41.86,58.14,297,85,3,0,44,81,ADVANCED,Credito vehicular; Cuenta sueldo premium; Productos premium
+15299.1,85.65,15629.02,0,0.54,99.46,22,86,4,0,18,84,ADVANCED,Credito hipotecario; Fondos mutuos; Productos premium; Credito vehicular
+7569.46,84.32,24719.63,1,39.11,60.89,12,79,3,0,21,77,ADVANCED,Linea paralela; Credito vehicular; Credito hipotecario
+4939.01,63.24,20593.42,1,55.95,44.05,119,60,2,1,31,44,BASIC,Microcredito controlado; Cuenta de ahorro
+8867.74,99.78,15309.47,0,30.75,69.25,81,84,4,0,31,82,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Credito vehicular; Productos premium
+3873.06,78.18,0.0,1,11.49,88.51,247,77,4,0,44,73,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Productos premium; Linea paralela
+5460.57,96.25,38238.44,1,9.22,90.78,285,100,2,0,43,97,ADVANCED,Fondos mutuos; Productos premium
+4172.23,88.35,552.59,0,44.5,55.5,44,69,3,0,21,66,INTERMEDIATE,Credito de consumo; Prestamo personal; Consolidacion de deuda
+7098.38,83.65,9076.03,6,58.6,41.4,70,62,3,0,25,61,INTERMEDIATE,Seguro de proteccion de pagos; Tarjeta de credito inicial; Prestamo personal
+4662.34,86.62,12547.26,0,33.76,66.24,42,78,2,0,21,77,ADVANCED,Cuenta sueldo premium; Linea paralela
+12155.17,91.06,56651.25,1,19.64,80.36,121,96,3,0,45,92,ADVANCED,Credito hipotecario; Credito vehicular; Fondos mutuos
+3860.48,90.17,16330.99,1,41.78,58.22,309,88,2,0,45,84,ADVANCED,Linea paralela; Fondos mutuos
+5186.09,81.74,25009.47,1,14.97,85.03,100,93,4,0,26,89,ADVANCED,Fondos mutuos; Linea paralela; Productos premium; Cuenta sueldo premium
+3886.75,75.48,8722.57,0,43.32,56.68,112,76,3,0,38,71,ADVANCED,Credito vehicular; Productos premium; Credito hipotecario
+12987.73,91.16,0.0,1,23.2,76.8,280,85,3,0,45,79,ADVANCED,Fondos mutuos; Productos premium; Cuenta sueldo premium
+11707.01,81.03,25875.12,0,35.41,64.59,47,83,2,0,26,79,ADVANCED,Cuenta sueldo premium; Credito hipotecario
+10265.5,57.54,28587.22,1,53.06,46.94,107,57,2,1,27,40,BASIC,Debito automatico; Programa de educacion financiera
+9975.29,81.04,16063.29,0,36.39,63.61,165,88,3,0,33,82,ADVANCED,Credito hipotecario; Credito vehicular; Cuenta sueldo premium
+11928.47,54.2,41361.22,0,47.52,52.48,46,56,2,1,24,41,BASIC,Ahorro programado; Debito automatico
+13701.43,74.94,23409.04,0,16.35,83.65,73,65,2,1,27,53,BASIC,Debito automatico; Cuenta de ahorro
+5654.62,67.83,18077.25,1,34.72,65.28,99,60,2,1,42,48,BASIC,Programa de educacion financiera; Microcredito controlado
+7006.68,44.43,21997.39,1,57.48,42.52,54,49,2,1,21,33,BASIC,Debito automatico; Cuenta de ahorro
+11955.98,60.48,10601.43,6,56.85,43.15,303,42,2,1,60,28,BASIC,Programa de educacion financiera; Microcredito controlado
+6886.64,81.78,19182.37,4,32.47,67.53,221,82,2,0,40,80,INTERMEDIATE,Prestamo personal; Credito de consumo
+4051.74,64.0,4625.01,0,64.14,35.86,46,45,2,1,23,31,BASIC,Debito automatico; Cuenta de ahorro
+7212.79,93.85,9216.32,1,21.47,78.53,87,87,4,0,24,86,ADVANCED,Credito vehicular; Cuenta sueldo premium; Credito hipotecario; Linea paralela
+11305.91,97.15,16364.26,1,6.36,93.64,211,94,3,0,65,92,ADVANCED,Credito hipotecario; Credito vehicular; Cuenta sueldo premium
+13862.21,72.69,11118.73,1,52.95,47.05,247,80,4,0,68,69,INTERMEDIATE,Consolidacion de deuda; Tarjeta de credito inicial; Prestamo personal; Seguro de proteccion de pagos
+10003.24,87.16,59684.51,0,4.59,95.41,107,100,3,0,42,96,ADVANCED,Linea paralela; Credito vehicular; Productos premium
+7050.64,77.87,22926.37,1,52.45,47.55,86,83,3,0,28,77,ADVANCED,Fondos mutuos; Productos premium; Credito vehicular
+7270.0,96.74,5463.57,1,46.5,53.5,27,75,3,0,21,72,ADVANCED,Productos premium; Fondos mutuos; Linea paralela
+4000.09,92.63,18713.08,5,25.11,74.89,204,85,2,0,36,86,INTERMEDIATE,Credito de consumo; Seguro de proteccion de pagos
+11805.83,82.38,29888.4,1,35.97,64.03,88,84,3,0,30,78,ADVANCED,Cuenta sueldo premium; Credito vehicular; Fondos mutuos
+6313.98,68.98,26011.18,1,21.15,78.85,146,65,2,1,52,54,BASIC,Microcredito controlado; Cuenta de ahorro
+7004.99,78.17,33194.82,1,23.6,76.4,141,94,2,0,55,88,ADVANCED,Linea paralela; Credito vehicular
+5586.27,72.67,0.0,6,49.71,50.29,360,39,2,1,57,29,BASIC,Programa de educacion financiera; Cuenta de ahorro
+9778.73,79.87,16871.03,1,24.49,75.51,180,64,2,1,35,51,BASIC,Programa de educacion financiera; Ahorro programado
+8467.81,57.54,14499.09,1,64.47,35.53,360,54,2,1,68,36,BASIC,Microcredito controlado; Ahorro programado
+9541.27,59.6,41214.75,6,46.05,53.95,139,51,2,1,30,40,BASIC,Programa de educacion financiera; Microcredito controlado
+8134.91,76.49,22580.5,1,26.46,73.54,48,60,2,1,21,50,BASIC,Programa de educacion financiera; Microcredito controlado
+5425.31,100.0,30472.5,0,32.96,67.04,36,90,3,0,20,89,ADVANCED,Productos premium; Credito vehicular; Linea paralela
+9727.49,74.42,7663.82,1,34.54,65.46,93,80,3,0,26,74,ADVANCED,Fondos mutuos; Linea paralela; Credito hipotecario
+7379.3,86.96,10864.15,0,47.24,52.76,224,80,2,0,39,74,ADVANCED,Fondos mutuos; Productos premium
+6427.55,84.27,13910.43,0,14.14,85.86,132,85,3,0,33,82,ADVANCED,Fondos mutuos; Credito hipotecario; Cuenta sueldo premium
+8697.84,65.07,0.0,2,29.01,70.99,360,55,2,1,70,39,BASIC,Cuenta de ahorro; Debito automatico
+4216.45,76.8,7020.42,2,20.18,79.82,184,64,2,1,34,54,BASIC,Programa de educacion financiera; Ahorro programado
+2680.26,68.54,6529.83,5,27.22,72.78,19,44,2,1,18,40,BASIC,Debito automatico; Programa de educacion financiera
+11042.33,87.28,9141.45,2,28.53,71.47,343,85,3,0,49,79,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Linea paralela
+6632.31,80.47,17506.27,1,19.41,80.59,323,86,4,0,51,82,ADVANCED,Linea paralela; Fondos mutuos; Credito hipotecario; Credito vehicular
+3401.9,44.68,16612.61,1,46.38,53.62,145,56,2,1,50,40,BASIC,Debito automatico; Microcredito controlado
+7652.22,74.78,8464.75,5,57.04,42.96,360,69,4,0,56,65,INTERMEDIATE,Seguro de proteccion de pagos; Consolidacion de deuda; Prestamo personal; Tarjeta de credito inicial
+4371.69,88.24,0.0,0,7.53,92.47,173,80,2,0,45,78,ADVANCED,Credito vehicular; Fondos mutuos
+5424.94,97.52,31011.2,4,32.75,67.25,273,93,2,0,54,90,INTERMEDIATE,Consolidacion de deuda; Seguro de proteccion de pagos
+12305.86,99.38,14596.73,1,32.94,67.06,39,87,2,0,25,85,ADVANCED,Credito vehicular; Linea paralela
+4677.85,70.08,10459.2,2,66.91,33.09,249,74,2,0,40,56,BASIC,Ahorro programado; Programa de educacion financiera
+13064.24,87.52,20813.99,2,31.79,68.21,199,88,2,0,38,81,ADVANCED,Credito vehicular; Productos premium
+4734.49,47.99,35814.94,1,88.4,11.6,87,54,2,1,35,23,BASIC,Debito automatico; Programa de educacion financiera
+6125.66,84.0,0.0,0,32.08,67.92,175,77,4,0,52,71,ADVANCED,Credito hipotecario; Linea paralela; Productos premium; Cuenta sueldo premium
+7099.75,80.42,31246.84,2,75.94,24.06,124,88,2,0,32,66,BASIC,Programa de educacion financiera; Microcredito controlado
+1411.35,84.84,1643.77,1,48.16,51.84,332,77,4,0,47,73,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Credito vehicular; Linea paralela
+5805.29,75.63,0.0,1,36.7,63.3,193,74,4,0,35,67,INTERMEDIATE,Consolidacion de deuda; Credito de consumo; Seguro de proteccion de pagos; Prestamo personal
+4633.49,74.53,1798.14,2,66.42,33.58,53,65,2,0,26,48,BASIC,Microcredito controlado; Programa de educacion financiera
+3691.14,88.75,2256.55,3,28.83,71.17,40,75,2,0,18,74,ADVANCED,Credito hipotecario; Fondos mutuos
+5947.01,82.99,15898.62,0,21.77,78.23,151,86,4,0,39,83,ADVANCED,Productos premium; Linea paralela; Cuenta sueldo premium; Credito hipotecario
+5711.11,95.38,3789.84,0,20.61,79.39,54,79,3,0,24,78,ADVANCED,Credito vehicular; Cuenta sueldo premium; Credito hipotecario
+5187.14,88.26,6749.27,0,48.11,51.89,142,82,2,0,31,78,ADVANCED,Credito vehicular; Linea paralela
+7782.71,86.73,22883.39,1,60.97,39.03,360,84,2,0,52,78,ADVANCED,Fondos mutuos; Credito hipotecario
+12392.18,62.25,26367.84,0,60.38,39.62,134,63,2,1,32,45,BASIC,Debito automatico; Programa de educacion financiera
+5376.36,67.57,5994.01,0,15.66,84.34,41,74,2,0,21,71,ADVANCED,Fondos mutuos; Linea paralela
+4507.27,83.3,0.0,1,15.38,84.62,321,78,2,0,45,74,ADVANCED,Credito vehicular; Productos premium
+2830.13,84.04,3821.13,2,33.81,66.19,120,79,3,0,29,76,ADVANCED,Fondos mutuos; Productos premium; Linea paralela
+6494.82,81.6,11906.29,4,45.92,54.08,22,69,3,0,18,68,INTERMEDIATE,Prestamo personal; Seguro de proteccion de pagos; Credito de consumo
+5361.87,76.28,14261.13,1,73.9,26.1,168,76,2,0,35,58,BASIC,Cuenta de ahorro; Ahorro programado
+12302.05,83.96,46626.66,0,51.9,48.1,174,88,3,0,42,80,ADVANCED,Cuenta sueldo premium; Productos premium; Credito vehicular
+13909.51,84.69,64014.59,0,6.68,93.32,0,90,2,0,18,90,ADVANCED,Productos premium; Cuenta sueldo premium
+4248.28,70.45,5588.1,1,66.86,33.14,70,71,2,0,26,54,BASIC,Microcredito controlado; Cuenta de ahorro
+4057.32,64.36,0.0,1,37.31,62.69,45,45,2,1,26,32,BASIC,Programa de educacion financiera; Debito automatico
+7061.48,64.67,5050.19,1,41.23,58.77,96,55,2,1,27,40,BASIC,Cuenta de ahorro; Microcredito controlado
+9197.69,84.33,27257.98,1,26.25,73.75,126,92,2,0,34,87,ADVANCED,Fondos mutuos; Credito hipotecario
+4644.58,87.08,18245.18,1,45.27,54.73,20,82,4,0,20,80,ADVANCED,Fondos mutuos; Linea paralela; Cuenta sueldo premium; Productos premium
+5241.46,64.31,10380.24,2,62.65,37.35,360,52,2,1,59,36,BASIC,Ahorro programado; Microcredito controlado
+9192.8,77.98,17591.03,1,35.69,64.31,175,88,2,0,32,82,ADVANCED,Credito vehicular; Fondos mutuos
+4269.29,99.05,2631.49,1,8.12,91.88,210,86,3,0,35,86,ADVANCED,Productos premium; Credito vehicular; Credito hipotecario
+9218.36,74.64,24715.09,0,9.47,90.53,134,91,3,0,40,87,ADVANCED,Credito vehicular; Cuenta sueldo premium; Productos premium
+9981.09,84.46,25554.73,4,61.32,38.68,106,86,4,0,35,79,INTERMEDIATE,Prestamo personal; Credito de consumo; Consolidacion de deuda; Seguro de proteccion de pagos
+5911.63,92.39,11511.28,3,24.75,75.25,360,86,3,0,67,84,ADVANCED,Credito vehicular; Fondos mutuos; Linea paralela
+4362.67,81.26,1556.23,0,37.23,62.77,170,75,3,0,39,69,INTERMEDIATE,Consolidacion de deuda; Tarjeta de credito inicial; Seguro de proteccion de pagos
+9584.53,82.2,21373.82,3,39.32,60.68,174,90,2,0,67,84,ADVANCED,Linea paralela; Cuenta sueldo premium
+6389.29,68.15,12371.8,6,58.11,41.89,360,43,2,1,65,33,BASIC,Microcredito controlado; Programa de educacion financiera
+7138.95,90.59,5421.67,1,8.54,91.46,86,84,4,0,25,83,ADVANCED,Credito vehicular; Cuenta sueldo premium; Fondos mutuos; Credito hipotecario
+11056.71,51.22,0.0,2,54.26,45.74,119,50,2,1,32,30,BASIC,Debito automatico; Programa de educacion financiera
+5086.57,79.37,13049.03,3,22.89,77.11,44,84,3,0,30,82,ADVANCED,Productos premium; Credito vehicular; Fondos mutuos
+7503.73,90.87,13327.91,1,54.51,45.49,360,80,2,0,62,74,ADVANCED,Credito hipotecario; Cuenta sueldo premium
+6935.85,96.5,19292.15,0,15.5,84.5,269,91,3,0,44,90,ADVANCED,Productos premium; Credito vehicular; Fondos mutuos
+10551.86,80.77,18247.6,1,59.23,40.77,131,84,2,0,32,76,ADVANCED,Credito vehicular; Fondos mutuos
+11284.79,83.17,68158.67,0,18.71,81.29,86,95,3,0,41,90,ADVANCED,Fondos mutuos; Credito vehicular; Linea paralela
+12943.46,44.1,13814.24,2,31.9,68.1,64,53,2,1,22,35,BASIC,Ahorro programado; Programa de educacion financiera
+3385.54,73.44,0.0,2,67.94,32.06,342,66,2,0,56,47,BASIC,Programa de educacion financiera; Ahorro programado
+12557.66,93.85,75153.58,0,34.01,65.99,73,96,4,0,25,91,ADVANCED,Productos premium; Credito vehicular; Linea paralela; Cuenta sueldo premium
+2502.24,100.0,3430.0,0,7.48,92.52,176,86,2,0,54,87,ADVANCED,Productos premium; Linea paralela
+1547.88,80.34,1270.41,1,37.58,62.42,327,77,4,0,60,73,ADVANCED,Linea paralela; Credito hipotecario; Cuenta sueldo premium; Productos premium
+5968.59,72.62,12971.72,0,32.71,67.29,94,78,3,0,29,73,ADVANCED,Credito hipotecario; Credito vehicular; Linea paralela
+10760.26,86.87,0.0,0,20.6,79.4,47,78,4,0,22,74,ADVANCED,Fondos mutuos; Credito vehicular; Credito hipotecario; Cuenta sueldo premium
+3384.54,100.0,10256.77,1,22.09,77.91,210,91,4,0,39,91,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Credito hipotecario; Linea paralela
+7105.68,91.94,10609.03,6,68.62,31.38,90,68,2,0,25,58,BASIC,Cuenta de ahorro; Microcredito controlado
+11440.09,88.76,7299.91,1,20.24,79.76,82,85,3,0,23,81,ADVANCED,Credito vehicular; Cuenta sueldo premium; Fondos mutuos
+8359.23,88.69,24539.13,1,72.42,27.58,73,81,2,0,39,65,BASIC,Cuenta de ahorro; Microcredito controlado
+12677.67,69.91,40432.7,0,49.92,50.08,91,86,4,0,34,77,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Linea paralela; Credito vehicular
+4198.92,72.75,690.43,1,36.85,63.15,141,73,2,0,37,66,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal
+12652.71,72.82,26370.56,5,78.21,21.79,211,72,2,0,65,54,BASIC,Cuenta de ahorro; Microcredito controlado
+9952.52,95.34,9175.25,0,13.01,86.99,210,87,3,0,36,84,ADVANCED,Cuenta sueldo premium; Productos premium; Credito hipotecario
+3708.01,98.43,5215.09,1,10.48,89.52,360,86,4,0,65,86,ADVANCED,Fondos mutuos; Linea paralela; Cuenta sueldo premium; Productos premium
+15283.78,85.09,37988.3,0,68.43,31.57,142,88,2,0,57,68,BASIC,Ahorro programado; Debito automatico
+7528.32,77.7,1733.1,1,61.08,38.92,144,73,4,0,31,64,INTERMEDIATE,Prestamo personal; Seguro de proteccion de pagos; Tarjeta de credito inicial; Credito de consumo
+9403.83,76.9,25831.96,1,65.88,34.12,20,82,2,0,19,64,BASIC,Debito automatico; Microcredito controlado
+3222.41,61.87,5712.08,4,37.15,62.85,34,67,2,0,21,65,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal
+8414.45,83.29,441.08,0,37.7,62.3,18,51,2,1,19,40,BASIC,Debito automatico; Programa de educacion financiera
+3870.55,51.12,7137.32,1,66.26,33.74,157,54,2,1,52,27,BASIC,Debito automatico; Cuenta de ahorro
+4172.29,75.13,12072.74,3,50.92,49.08,97,76,3,0,38,71,ADVANCED,Credito hipotecario; Credito vehicular; Productos premium
+6928.36,68.87,2486.76,0,22.74,77.26,68,74,3,0,25,69,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal; Credito de consumo
+9683.17,96.44,30488.82,0,6.72,93.28,49,93,2,0,23,94,ADVANCED,Cuenta sueldo premium; Credito hipotecario
+6669.43,80.73,31617.19,0,43.47,56.53,114,92,3,0,45,84,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Credito vehicular
+5857.01,66.89,19019.49,1,36.72,63.28,152,68,2,1,43,53,BASIC,Ahorro programado; Cuenta de ahorro
+10067.36,73.73,1142.86,0,65.94,34.06,69,69,2,0,31,50,BASIC,Debito automatico; Microcredito controlado
+9021.32,91.83,32205.94,1,38.24,61.76,184,90,2,0,39,86,ADVANCED,Credito vehicular; Cuenta sueldo premium
+4894.01,95.61,13224.45,2,30.82,69.18,235,94,4,0,42,90,ADVANCED,Productos premium; Credito hipotecario; Credito vehicular; Fondos mutuos
+12568.42,76.1,19460.5,1,44.24,55.76,62,79,3,0,25,72,ADVANCED,Cuenta sueldo premium; Credito vehicular; Credito hipotecario
+8426.66,89.91,18174.79,0,39.85,60.15,360,84,3,0,67,79,ADVANCED,Fondos mutuos; Credito hipotecario; Productos premium
+6668.83,87.32,1255.14,1,39.93,60.07,143,78,4,0,51,72,ADVANCED,Productos premium; Cuenta sueldo premium; Linea paralela; Fondos mutuos
+7728.56,85.23,6807.51,1,80.08,19.92,121,76,2,0,42,57,BASIC,Debito automatico; Programa de educacion financiera
+16411.61,93.48,10117.65,2,33.52,66.48,336,89,3,0,60,82,ADVANCED,Fondos mutuos; Productos premium; Cuenta sueldo premium
+6383.33,90.92,3039.51,1,65.41,34.59,77,73,2,0,30,57,BASIC,Programa de educacion financiera; Cuenta de ahorro
+3966.76,87.5,1117.49,1,22.74,77.26,360,79,4,0,63,76,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Credito vehicular; Fondos mutuos
+11154.77,50.75,13591.74,1,54.42,45.58,169,54,2,1,36,35,BASIC,Debito automatico; Programa de educacion financiera
+14633.83,69.08,37707.02,1,33.33,66.67,164,68,2,1,37,52,BASIC,Microcredito controlado; Programa de educacion financiera
+4315.38,98.81,14652.02,1,23.43,76.57,134,94,3,0,39,92,ADVANCED,Credito vehicular; Linea paralela; Productos premium
+4081.14,73.98,14496.77,3,29.33,70.67,214,86,2,0,44,81,ADVANCED,Productos premium; Credito hipotecario
+7414.45,80.96,12441.91,5,27.26,72.74,66,74,4,0,24,75,INTERMEDIATE,Seguro de proteccion de pagos; Tarjeta de credito inicial; Credito de consumo; Prestamo personal
+12791.07,72.01,40909.19,1,22.91,77.09,197,70,2,1,38,56,BASIC,Ahorro programado; Cuenta de ahorro
+8241.49,88.37,7037.68,1,26.65,73.35,184,84,3,0,41,80,ADVANCED,Credito vehicular; Cuenta sueldo premium; Fondos mutuos
+5736.32,75.8,16034.48,2,27.26,72.74,100,81,2,0,36,77,ADVANCED,Fondos mutuos; Productos premium
+5708.35,58.18,28405.92,1,29.5,70.5,360,69,2,1,66,53,BASIC,Microcredito controlado; Programa de educacion financiera
+15409.98,70.45,54804.66,3,73.47,26.53,360,91,2,0,60,66,BASIC,Debito automatico; Programa de educacion financiera
+14528.86,95.03,51860.17,0,18.44,81.56,209,98,2,0,50,94,ADVANCED,Fondos mutuos; Credito vehicular
+12788.11,66.87,26730.3,1,24.14,75.86,230,71,2,1,48,56,BASIC,Ahorro programado; Cuenta de ahorro
+12084.9,76.82,11801.67,0,24.31,75.69,360,84,3,0,69,77,ADVANCED,Cuenta sueldo premium; Credito vehicular; Fondos mutuos
+16429.95,75.16,0.0,2,66.15,33.85,140,77,2,0,34,54,BASIC,Programa de educacion financiera; Microcredito controlado
+2880.7,84.84,7550.63,1,31.77,68.23,173,82,3,0,34,79,ADVANCED,Credito vehicular; Cuenta sueldo premium; Credito hipotecario
+5203.73,89.43,5191.35,4,31.74,68.26,353,77,3,0,57,75,INTERMEDIATE,Tarjeta de credito inicial; Seguro de proteccion de pagos; Prestamo personal
+16496.98,89.18,0.0,0,36.01,63.99,233,85,3,0,34,76,ADVANCED,Credito vehicular; Productos premium; Cuenta sueldo premium
+4637.53,88.67,21047.61,0,48.36,51.64,320,87,3,0,51,82,ADVANCED,Credito hipotecario; Credito vehicular; Linea paralela
+5915.84,90.88,14659.23,0,31.36,68.64,154,84,3,0,40,81,ADVANCED,Credito hipotecario; Fondos mutuos; Credito vehicular
+5670.66,48.8,9197.8,1,32.21,67.79,228,53,2,1,42,37,BASIC,Programa de educacion financiera; Cuenta de ahorro
+9759.31,92.61,50068.72,0,61.9,38.1,218,90,2,0,43,82,ADVANCED,Fondos mutuos; Credito vehicular
+8359.56,77.19,14929.88,2,50.99,49.01,165,79,3,0,36,71,ADVANCED,Linea paralela; Fondos mutuos; Productos premium
+5979.3,79.57,43112.4,1,31.35,68.65,99,72,2,1,29,59,BASIC,Ahorro programado; Cuenta de ahorro
+8863.47,87.96,16954.05,0,38.06,61.94,52,80,2,0,21,77,ADVANCED,Cuenta sueldo premium; Credito vehicular
+6547.15,95.63,19919.4,1,23.8,76.2,217,93,4,0,40,91,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Productos premium; Credito vehicular
+5006.62,88.18,0.0,1,37.18,62.82,360,76,3,0,67,71,ADVANCED,Linea paralela; Productos premium; Credito hipotecario
+12904.08,72.99,11369.14,0,31.38,68.62,230,64,2,1,53,49,BASIC,Microcredito controlado; Programa de educacion financiera
+14249.77,91.68,0.0,0,29.62,70.38,323,85,2,0,54,78,ADVANCED,Fondos mutuos; Cuenta sueldo premium
+10799.95,84.81,35711.47,2,51.51,48.49,30,83,4,0,22,79,ADVANCED,Cuenta sueldo premium; Credito vehicular; Productos premium; Fondos mutuos
+12893.32,74.21,35555.65,3,59.95,40.05,100,86,4,0,27,77,ADVANCED,Credito hipotecario; Fondos mutuos; Credito vehicular; Productos premium
+12021.19,92.13,3461.13,0,41.63,58.37,64,80,4,0,29,74,ADVANCED,Linea paralela; Credito hipotecario; Fondos mutuos; Productos premium
+11667.83,100.0,31177.75,1,42.46,57.54,174,93,2,0,32,89,ADVANCED,Cuenta sueldo premium; Credito vehicular
+2782.97,92.36,604.57,0,16.97,83.03,360,79,3,0,65,77,ADVANCED,Cuenta sueldo premium; Linea paralela; Fondos mutuos
+3918.83,82.36,6160.83,2,21.36,78.64,360,86,3,0,53,84,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Productos premium
+5237.87,80.01,32618.51,3,27.2,72.8,302,94,3,0,49,87,ADVANCED,Productos premium; Credito hipotecario; Cuenta sueldo premium
+3254.78,71.8,3068.1,0,14.64,85.36,183,78,3,0,48,74,ADVANCED,Credito vehicular; Cuenta sueldo premium; Fondos mutuos
+12466.38,50.45,17128.72,1,25.93,74.07,171,64,2,1,30,47,BASIC,Cuenta de ahorro; Debito automatico
+2314.92,89.84,0.0,1,12.61,87.39,284,78,3,0,54,76,ADVANCED,Credito hipotecario; Credito vehicular; Cuenta sueldo premium
+7471.28,71.9,7889.42,4,85.32,14.68,257,67,2,0,55,47,BASIC,Microcredito controlado; Debito automatico
+3761.37,90.63,33805.71,0,7.1,92.9,296,98,3,0,50,95,ADVANCED,Credito hipotecario; Credito vehicular; Productos premium
+9793.45,85.98,2150.24,1,13.22,86.78,22,77,2,0,19,75,ADVANCED,Credito hipotecario; Cuenta sueldo premium
+12739.39,84.71,25232.78,4,41.28,58.72,258,81,2,0,51,75,INTERMEDIATE,Seguro de proteccion de pagos; Consolidacion de deuda
+3163.61,79.02,14838.53,1,20.1,79.9,52,86,4,0,24,84,ADVANCED,Credito vehicular; Fondos mutuos; Cuenta sueldo premium; Credito hipotecario
+11301.48,50.64,26557.5,4,27.73,72.27,88,61,2,1,40,47,BASIC,Microcredito controlado; Programa de educacion financiera
+10087.05,96.69,17919.98,1,30.14,69.86,122,89,3,0,50,85,ADVANCED,Credito vehicular; Credito hipotecario; Productos premium
+12963.16,81.48,23544.92,3,64.74,35.26,164,82,2,0,63,72,ADVANCED,Fondos mutuos; Credito vehicular
+8676.12,92.46,6803.02,1,34.36,65.64,78,82,3,0,26,79,ADVANCED,Linea paralela; Productos premium; Credito hipotecario
+8566.27,78.65,42446.78,5,35.48,64.52,30,77,4,0,21,76,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Tarjeta de credito inicial; Prestamo personal
+4800.66,94.66,18865.38,1,44.31,55.69,138,86,3,0,34,83,ADVANCED,Credito vehicular; Productos premium; Fondos mutuos
+1842.2,74.05,5117.24,1,47.44,52.56,281,84,3,0,48,77,ADVANCED,Credito vehicular; Cuenta sueldo premium; Credito hipotecario
+8360.43,70.66,5560.01,3,39.77,60.23,337,58,2,1,45,43,BASIC,Debito automatico; Programa de educacion financiera
+11064.34,95.19,80419.46,3,31.28,68.72,137,100,3,0,33,93,ADVANCED,Linea paralela; Productos premium; Credito vehicular
+5340.81,91.25,2383.75,0,26.36,73.64,230,80,4,0,44,77,ADVANCED,Credito vehicular; Productos premium; Linea paralela; Cuenta sueldo premium
+7484.39,85.6,3608.22,0,13.33,86.67,230,84,2,0,50,80,ADVANCED,Fondos mutuos; Linea paralela
+9530.08,87.34,34039.5,0,12.54,87.46,99,94,3,0,25,91,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Linea paralela
+1908.01,86.57,1191.3,1,63.88,36.12,118,70,2,0,29,64,INTERMEDIATE,Credito de consumo; Seguro de proteccion de pagos
+6756.16,77.21,3905.66,1,36.42,63.58,114,78,3,0,25,72,ADVANCED,Productos premium; Fondos mutuos; Linea paralela
+2776.89,88.85,11033.9,0,16.26,83.74,348,90,2,0,45,89,ADVANCED,Fondos mutuos; Credito hipotecario
+1982.96,70.6,4686.48,1,27.42,72.58,197,78,3,0,38,74,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Credito vehicular
+13472.55,81.18,31930.02,0,6.07,93.93,345,93,3,0,60,88,ADVANCED,Linea paralela; Credito vehicular; Productos premium
+9066.42,83.95,31881.27,3,22.81,77.19,178,91,4,0,32,87,ADVANCED,Linea paralela; Productos premium; Credito vehicular; Cuenta sueldo premium
+17044.7,52.88,47791.21,3,70.31,29.69,238,70,2,1,45,35,BASIC,Ahorro programado; Microcredito controlado
+2734.42,93.43,4083.82,3,30.62,69.38,360,86,3,0,55,85,ADVANCED,Credito hipotecario; Credito vehicular; Fondos mutuos
+4590.53,84.31,13920.75,3,30.69,69.31,243,83,2,0,37,80,ADVANCED,Productos premium; Credito hipotecario
+8706.44,100.0,11977.19,0,20.07,79.93,25,82,4,0,20,82,ADVANCED,Cuenta sueldo premium; Credito vehicular; Productos premium; Linea paralela
+8596.32,90.0,24574.08,1,52.55,47.45,360,84,3,0,60,78,ADVANCED,Productos premium; Fondos mutuos; Credito hipotecario
+14337.02,50.02,0.0,3,63.03,36.97,269,51,2,1,68,28,BASIC,Ahorro programado; Debito automatico
+6383.83,65.99,15393.53,2,46.04,53.96,74,53,2,1,37,40,BASIC,Ahorro programado; Microcredito controlado
+3035.34,53.03,1227.42,1,82.44,17.56,40,35,2,1,24,8,BASIC,Ahorro programado; Microcredito controlado
+2508.02,92.62,7378.12,6,53.39,46.61,59,66,2,0,21,70,INTERMEDIATE,Consolidacion de deuda; Credito de consumo
+8371.13,79.15,24272.83,4,53.3,46.7,31,74,2,0,21,72,INTERMEDIATE,Seguro de proteccion de pagos; Consolidacion de deuda
+7614.65,65.55,20411.27,6,94.2,5.8,108,59,2,0,34,42,BASIC,Debito automatico; Microcredito controlado
+4801.4,94.52,13098.71,0,31.98,68.02,261,86,3,0,48,84,ADVANCED,Linea paralela; Fondos mutuos; Productos premium
+10126.11,69.55,16571.32,5,56.03,43.97,21,43,2,1,18,33,BASIC,Microcredito controlado; Cuenta de ahorro
+12809.39,87.46,7648.55,0,28.94,71.06,146,85,4,0,37,78,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Credito vehicular; Fondos mutuos
+8684.2,86.55,38174.74,0,20.21,79.79,168,98,3,0,33,92,ADVANCED,Cuenta sueldo premium; Linea paralela; Credito hipotecario
+3781.07,78.45,557.06,0,18.49,81.51,119,76,4,0,43,72,ADVANCED,Productos premium; Fondos mutuos; Linea paralela; Credito hipotecario
+8051.61,43.3,19091.85,0,50.12,49.88,180,56,2,1,30,38,BASIC,Ahorro programado; Debito automatico
+10666.5,50.43,14749.98,2,66.24,33.76,109,55,2,1,47,26,BASIC,Programa de educacion financiera; Cuenta de ahorro
+9777.02,70.93,23956.48,0,28.9,71.1,168,66,2,1,37,52,BASIC,Programa de educacion financiera; Microcredito controlado
+3112.58,84.19,11855.5,1,27.15,72.85,204,85,4,0,49,83,ADVANCED,Cuenta sueldo premium; Productos premium; Credito hipotecario; Credito vehicular
+2980.81,80.08,0.0,4,77.8,22.2,142,62,2,0,47,45,BASIC,Programa de educacion financiera; Ahorro programado
+4871.54,68.21,11607.82,1,48.51,51.49,83,57,2,1,29,44,BASIC,Debito automatico; Cuenta de ahorro
+6969.93,92.29,0.0,1,14.97,85.03,299,82,3,0,54,79,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Productos premium
+10008.98,78.31,20252.13,1,15.06,84.94,45,87,4,0,24,85,ADVANCED,Fondos mutuos; Cuenta sueldo premium; Credito hipotecario; Credito vehicular
+7896.42,98.86,1994.87,0,7.62,92.38,101,85,3,0,30,84,ADVANCED,Fondos mutuos; Credito hipotecario; Productos premium
+9340.78,77.56,6905.68,0,15.15,84.85,298,83,3,0,45,77,ADVANCED,Fondos mutuos; Productos premium; Linea paralela
+3903.24,81.26,0.0,0,49.17,50.83,199,72,3,0,34,65,INTERMEDIATE,Consolidacion de deuda; Credito de consumo; Prestamo personal
+8735.6,38.76,0.0,1,52.58,47.42,210,45,2,1,41,24,BASIC,Ahorro programado; Programa de educacion financiera
+9414.83,70.98,25875.7,4,44.94,55.06,313,79,4,0,62,73,INTERMEDIATE,Seguro de proteccion de pagos; Consolidacion de deuda; Credito de consumo; Tarjeta de credito inicial
+4997.39,92.05,25548.05,0,9.25,90.75,88,92,2,0,34,92,ADVANCED,Cuenta sueldo premium; Productos premium
+5799.08,53.7,19138.19,1,42.04,57.96,119,58,2,1,40,43,BASIC,Programa de educacion financiera; Microcredito controlado
+3235.98,100.0,1761.02,1,12.92,87.08,236,84,2,0,56,84,ADVANCED,Productos premium; Credito vehicular
+7441.7,84.36,0.0,0,50.99,49.01,87,72,2,0,25,66,INTERMEDIATE,Tarjeta de credito inicial; Credito de consumo
+3799.45,100.0,7345.82,0,14.64,85.36,16,86,3,0,20,89,ADVANCED,Cuenta sueldo premium; Productos premium; Linea paralela
+14418.68,99.87,26261.72,0,3.23,96.77,145,98,3,0,39,95,ADVANCED,Linea paralela; Productos premium; Credito hipotecario
+5486.98,83.5,23515.39,6,56.92,43.08,166,72,4,0,32,71,INTERMEDIATE,Seguro de proteccion de pagos; Tarjeta de credito inicial; Consolidacion de deuda; Prestamo personal
+13937.97,46.26,6476.85,3,58.38,41.62,120,52,2,1,29,30,BASIC,Debito automatico; Microcredito controlado
+3231.18,51.7,42.33,5,65.32,34.68,246,34,2,1,58,9,BASIC,Debito automatico; Cuenta de ahorro
+4905.51,93.72,3178.94,0,19.07,80.93,66,78,3,0,36,77,ADVANCED,Credito hipotecario; Productos premium; Cuenta sueldo premium
+6476.45,83.54,12491.74,4,43.83,56.17,360,83,3,0,61,80,INTERMEDIATE,Prestamo personal; Consolidacion de deuda; Credito de consumo
+11768.21,92.98,9736.51,3,37.76,62.24,49,80,3,0,21,76,ADVANCED,Credito hipotecario; Productos premium; Fondos mutuos
+3071.39,76.83,0.0,0,22.08,77.92,58,70,3,0,28,67,INTERMEDIATE,Tarjeta de credito inicial; Credito de consumo; Prestamo personal
+14300.05,98.72,65864.67,1,11.44,88.56,360,100,3,0,62,97,ADVANCED,Linea paralela; Credito vehicular; Fondos mutuos
+2318.11,76.72,5271.96,3,38.08,61.92,55,76,4,0,21,74,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Productos premium; Fondos mutuos
+2034.06,72.98,4579.87,1,28.59,71.41,50,73,4,0,29,71,ADVANCED,Credito hipotecario; Credito vehicular; Fondos mutuos; Cuenta sueldo premium
+12510.82,47.25,29918.9,1,56.07,43.93,88,55,2,1,23,36,BASIC,Cuenta de ahorro; Programa de educacion financiera
+10002.47,82.14,7222.74,0,33.69,66.31,238,83,3,0,48,77,ADVANCED,Credito hipotecario; Productos premium; Linea paralela
+9883.01,75.95,5057.84,2,35.76,64.24,234,79,3,0,47,71,ADVANCED,Fondos mutuos; Productos premium; Cuenta sueldo premium
+6880.61,80.41,39961.43,0,12.18,87.82,24,91,3,0,19,88,ADVANCED,Linea paralela; Productos premium; Credito vehicular
+2692.3,84.62,15475.6,0,4.85,95.15,134,95,3,0,45,93,ADVANCED,Credito vehicular; Linea paralela; Fondos mutuos
+4178.96,85.76,5090.99,1,38.39,61.61,360,80,3,0,60,76,ADVANCED,Credito vehicular; Linea paralela; Fondos mutuos
+5908.61,89.64,10006.22,1,14.97,85.03,206,85,4,0,64,83,ADVANCED,Credito hipotecario; Productos premium; Linea paralela; Fondos mutuos
+3915.93,71.43,13843.78,1,68.62,31.38,62,80,2,0,26,61,BASIC,Debito automatico; Microcredito controlado
+10796.41,85.79,0.0,1,58.03,41.97,320,76,2,0,59,67,INTERMEDIATE,Tarjeta de credito inicial; Prestamo personal
+9923.65,65.12,24519.55,0,37.66,62.34,206,61,2,1,56,46,BASIC,Microcredito controlado; Programa de educacion financiera
+10314.5,95.02,24717.81,1,54.98,45.02,162,91,4,0,34,85,ADVANCED,Credito hipotecario; Fondos mutuos; Credito vehicular; Linea paralela
+16346.23,54.31,32471.86,1,45.88,54.12,360,61,2,1,56,41,BASIC,Microcredito controlado; Cuenta de ahorro
+9950.43,72.52,0.0,0,51.64,48.36,334,74,4,0,44,64,INTERMEDIATE,Credito de consumo; Tarjeta de credito inicial; Seguro de proteccion de pagos; Prestamo personal
+8310.09,81.87,17198.36,0,59.16,40.84,151,79,3,0,37,71,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Fondos mutuos
+14567.28,72.09,0.0,2,51.78,48.22,91,75,2,0,23,64,INTERMEDIATE,Seguro de proteccion de pagos; Consolidacion de deuda
+7098.71,54.76,25232.29,3,57.43,42.57,30,58,2,1,21,41,BASIC,Programa de educacion financiera; Debito automatico
+6598.34,100.0,0.0,1,8.56,91.44,157,84,3,0,40,82,ADVANCED,Credito vehicular; Fondos mutuos; Linea paralela
+3224.25,60.03,11446.57,0,48.14,51.86,58,53,2,1,22,41,BASIC,Microcredito controlado; Debito automatico
+8663.72,80.97,7611.43,0,50.62,49.38,202,78,3,0,59,70,ADVANCED,Fondos mutuos; Linea paralela; Cuenta sueldo premium
+3755.96,76.44,6485.47,1,47.68,52.32,148,75,3,0,28,69,INTERMEDIATE,Seguro de proteccion de pagos; Tarjeta de credito inicial; Prestamo personal
+12480.43,81.63,712.68,2,65.25,34.75,69,73,2,0,29,53,BASIC,Ahorro programado; Cuenta de ahorro
+4273.7,69.36,5081.3,3,58.84,41.16,111,71,4,0,41,63,INTERMEDIATE,Tarjeta de credito inicial; Consolidacion de deuda; Seguro de proteccion de pagos; Credito de consumo
+6522.24,94.13,6985.35,2,16.52,83.48,136,86,3,0,31,84,ADVANCED,Productos premium; Credito vehicular; Credito hipotecario
+10738.75,69.55,24416.08,1,66.81,33.19,21,71,2,0,21,53,BASIC,Microcredito controlado; Cuenta de ahorro
+3037.59,80.43,7050.87,0,24.45,75.55,267,81,3,0,42,78,ADVANCED,Credito vehicular; Credito hipotecario; Productos premium
+9251.96,91.37,5288.72,2,21.94,78.06,360,85,2,0,59,80,ADVANCED,Fondos mutuos; Credito hipotecario
+11648.58,83.34,19061.89,4,59.22,40.78,216,78,4,0,38,71,INTERMEDIATE,Consolidacion de deuda; Prestamo personal; Credito de consumo; Tarjeta de credito inicial
+6229.67,90.51,32493.88,1,58.51,41.49,107,87,3,0,35,81,ADVANCED,Linea paralela; Cuenta sueldo premium; Credito vehicular
+11107.56,70.32,65022.6,1,35.16,64.84,250,75,2,1,41,58,BASIC,Ahorro programado; Cuenta de ahorro
+5215.75,87.86,0.0,0,27.37,72.63,82,75,3,0,33,72,ADVANCED,Credito hipotecario; Productos premium; Linea paralela
+12739.41,87.44,10820.87,1,33.1,66.9,360,85,3,0,57,78,ADVANCED,Cuenta sueldo premium; Credito vehicular; Credito hipotecario
+10881.99,36.69,11585.6,6,65.25,34.75,113,36,2,1,28,10,BASIC,Programa de educacion financiera; Debito automatico
+8367.81,86.1,34850.77,3,42.26,57.74,34,84,4,0,26,81,ADVANCED,Cuenta sueldo premium; Fondos mutuos; Linea paralela; Productos premium
+8989.94,78.32,36178.5,2,28.13,71.87,2,82,4,0,22,80,ADVANCED,Productos premium; Linea paralela; Credito hipotecario; Fondos mutuos
+11170.52,68.9,42933.47,3,61.77,38.23,208,83,2,0,48,73,ADVANCED,Linea paralela; Credito vehicular
+7158.69,100.0,14103.51,1,8.79,91.21,140,92,2,0,34,92,ADVANCED,Credito hipotecario; Linea paralela
+3846.75,89.23,0.0,2,50.9,49.1,226,73,3,0,39,67,INTERMEDIATE,Prestamo personal; Credito de consumo; Consolidacion de deuda
+6172.99,94.82,1461.06,2,78.1,21.9,9,65,2,0,18,50,BASIC,Cuenta de ahorro; Microcredito controlado
+9383.11,54.23,0.0,2,60.27,39.73,46,43,2,1,19,25,BASIC,Ahorro programado; Debito automatico
+5182.52,98.48,27379.59,6,48.82,51.18,92,77,3,0,36,79,INTERMEDIATE,Seguro de proteccion de pagos; Prestamo personal; Credito de consumo
+2863.26,76.36,726.1,1,33.67,66.33,252,73,4,0,67,67,INTERMEDIATE,Consolidacion de deuda; Tarjeta de credito inicial; Prestamo personal; Credito de consumo
+5449.35,62.9,17378.45,1,84.39,15.61,158,80,2,0,35,57,BASIC,Ahorro programado; Cuenta de ahorro
+11286.04,59.44,19399.7,6,67.24,32.76,282,47,2,1,40,24,BASIC,Programa de educacion financiera; Cuenta de ahorro
+4721.45,59.93,0.0,0,21.0,79.0,284,52,2,1,45,38,BASIC,Microcredito controlado; Ahorro programado
+2233.38,86.97,151.85,0,28.74,71.26,140,75,3,0,30,72,ADVANCED,Fondos mutuos; Linea paralela; Cuenta sueldo premium
+6061.02,83.85,9897.03,5,31.06,68.94,360,76,2,0,59,76,INTERMEDIATE,Prestamo personal; Seguro de proteccion de pagos
+4810.77,87.07,23712.49,2,35.32,64.68,60,84,3,0,22,82,ADVANCED,Linea paralela; Credito hipotecario; Productos premium
+12262.68,78.25,16467.35,1,25.06,74.94,111,88,2,0,48,82,ADVANCED,Productos premium; Cuenta sueldo premium
+7609.64,67.28,42859.94,0,51.76,48.24,66,85,4,0,28,76,ADVANCED,Credito vehicular; Cuenta sueldo premium; Credito hipotecario; Productos premium
+9243.3,77.04,0.0,0,26.14,73.86,310,78,4,0,52,71,ADVANCED,Credito vehicular; Credito hipotecario; Fondos mutuos; Cuenta sueldo premium
+13468.3,96.21,53368.57,1,13.84,86.16,107,100,3,0,37,96,ADVANCED,Productos premium; Credito vehicular; Credito hipotecario
+6042.19,65.53,1728.79,0,16.88,83.12,341,56,2,1,69,43,BASIC,Ahorro programado; Cuenta de ahorro
+6920.92,80.97,1378.93,0,55.67,44.33,50,69,3,0,24,63,INTERMEDIATE,Prestamo personal; Consolidacion de deuda; Tarjeta de credito inicial
+16467.82,81.24,24421.54,4,69.73,30.27,73,75,2,0,26,56,BASIC,Ahorro programado; Microcredito controlado
+14014.29,95.84,24811.63,0,29.57,70.43,127,96,4,0,34,92,ADVANCED,Credito hipotecario; Productos premium; Credito vehicular; Fondos mutuos
+9434.81,65.94,10971.52,0,14.62,85.38,92,63,2,1,32,51,BASIC,Microcredito controlado; Debito automatico
+3792.81,93.31,9724.47,1,52.38,47.62,360,87,2,0,49,82,ADVANCED,Credito hipotecario; Productos premium
+3822.42,59.81,0.0,1,29.74,70.26,201,50,2,1,54,35,BASIC,Cuenta de ahorro; Debito automatico
+12412.3,70.52,47317.32,2,62.43,37.57,140,84,2,0,41,74,ADVANCED,Credito hipotecario; Linea paralela
+9327.68,76.6,4285.56,1,24.23,75.77,210,81,2,0,36,74,ADVANCED,Productos premium; Fondos mutuos
+14027.64,77.75,0.0,0,12.58,87.42,216,85,4,0,42,77,ADVANCED,Credito hipotecario; Fondos mutuos; Credito vehicular; Linea paralela
+6896.36,61.2,10914.94,1,60.42,39.58,234,52,2,1,43,35,BASIC,Debito automatico; Programa de educacion financiera
+7553.73,32.85,24946.16,2,96.07,3.93,161,48,2,1,43,15,BASIC,Cuenta de ahorro; Programa de educacion financiera
+3944.31,96.27,5181.13,1,56.38,43.62,124,77,2,0,35,72,ADVANCED,Productos premium; Linea paralela
+9038.34,66.34,40130.56,0,44.9,55.1,43,84,4,0,22,76,ADVANCED,Fondos mutuos; Credito hipotecario; Cuenta sueldo premium; Credito vehicular
+9267.02,84.41,0.0,1,13.52,86.48,214,82,3,0,37,77,ADVANCED,Linea paralela; Productos premium; Cuenta sueldo premium
+5348.03,78.8,11071.02,1,10.99,89.01,153,88,3,0,30,86,ADVANCED,Cuenta sueldo premium; Productos premium; Fondos mutuos
+12594.15,83.32,40717.65,1,28.41,71.59,272,91,2,0,43,85,ADVANCED,Linea paralela; Fondos mutuos
+7809.33,86.8,11194.09,0,41.05,58.95,131,82,4,0,29,76,ADVANCED,Cuenta sueldo premium; Credito vehicular; Linea paralela; Fondos mutuos
+8846.67,50.6,14064.65,6,73.73,26.27,73,34,2,1,29,11,BASIC,Cuenta de ahorro; Programa de educacion financiera
+8261.26,92.08,0.0,0,32.27,67.73,43,75,2,0,26,72,ADVANCED,Credito hipotecario; Credito vehicular
+5381.49,84.44,23778.14,1,36.9,63.1,53,82,3,0,22,80,ADVANCED,Productos premium; Linea paralela; Cuenta sueldo premium
+9477.44,86.97,0.0,0,21.76,78.24,155,82,2,0,34,76,ADVANCED,Fondos mutuos; Credito vehicular
+4849.3,89.94,7368.45,1,38.83,61.17,142,82,2,0,30,79,ADVANCED,Cuenta sueldo premium; Productos premium
+9455.37,71.59,17677.95,0,47.79,52.21,128,61,2,1,31,46,BASIC,Ahorro programado; Programa de educacion financiera
+14476.78,77.65,30574.55,1,24.78,75.22,193,88,4,0,63,81,ADVANCED,Linea paralela; Credito hipotecario; Fondos mutuos; Credito vehicular
+8568.18,80.4,35139.41,0,40.63,59.37,253,87,2,0,65,81,ADVANCED,Fondos mutuos; Credito hipotecario
+7898.92,54.78,24384.97,4,56.14,43.86,154,53,2,1,31,38,BASIC,Ahorro programado; Programa de educacion financiera
+1828.22,88.53,5486.69,1,39.65,60.35,47,77,4,0,24,77,ADVANCED,Fondos mutuos; Productos premium; Linea paralela; Credito vehicular
+7271.13,78.6,0.0,0,13.47,86.53,77,76,2,0,25,72,ADVANCED,Credito hipotecario; Fondos mutuos
+3722.66,42.97,10026.32,0,88.78,11.22,120,49,2,1,26,19,BASIC,Cuenta de ahorro; Ahorro programado
+8568.14,61.78,18938.13,2,34.56,65.44,134,61,2,1,50,46,BASIC,Cuenta de ahorro; Debito automatico
+13118.96,77.46,45603.8,0,32.43,67.57,150,93,3,0,36,86,ADVANCED,Productos premium; Credito hipotecario; Cuenta sueldo premium
+13176.96,82.44,36896.24,1,38.35,61.65,360,95,4,0,57,87,ADVANCED,Credito vehicular; Productos premium; Cuenta sueldo premium; Fondos mutuos
+9067.91,83.37,8477.27,1,45.86,54.14,36,74,3,0,23,69,INTERMEDIATE,Seguro de proteccion de pagos; Prestamo personal; Tarjeta de credito inicial
+3346.25,94.99,0.0,3,27.57,72.43,135,78,4,0,29,75,ADVANCED,Fondos mutuos; Linea paralela; Credito hipotecario; Cuenta sueldo premium
+7704.97,59.78,36759.0,1,43.45,56.55,54,58,2,1,24,45,BASIC,Ahorro programado; Cuenta de ahorro
+4556.16,71.31,17479.84,0,37.55,62.45,171,86,3,0,40,79,ADVANCED,Productos premium; Fondos mutuos; Credito hipotecario
+9359.68,92.64,9744.69,1,9.76,90.24,218,91,3,0,61,89,ADVANCED,Productos premium; Credito vehicular; Credito hipotecario
+15203.73,86.16,12095.27,3,73.83,26.17,91,78,2,0,27,57,BASIC,Cuenta de ahorro; Debito automatico
+7078.45,79.7,3891.66,1,36.78,63.22,60,74,2,0,22,69,INTERMEDIATE,Consolidacion de deuda; Prestamo personal
+7564.32,76.85,47267.01,1,81.77,18.23,80,82,2,0,24,61,BASIC,Cuenta de ahorro; Debito automatico
+11420.65,82.62,13231.87,4,40.85,59.15,92,77,3,0,25,72,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Prestamo personal
+4129.25,51.68,1077.04,1,43.19,56.81,82,45,2,1,28,29,BASIC,Microcredito controlado; Cuenta de ahorro
+3483.53,92.21,23725.61,1,12.73,87.27,150,97,3,0,42,94,ADVANCED,Productos premium; Fondos mutuos; Cuenta sueldo premium
+14580.3,64.31,2575.17,0,39.91,60.09,340,59,2,1,55,40,BASIC,Debito automatico; Ahorro programado
+6349.24,73.91,15877.02,1,80.87,19.13,160,81,2,0,34,60,BASIC,Cuenta de ahorro; Ahorro programado
+5515.71,78.21,26260.63,1,23.39,76.61,104,88,2,0,47,84,ADVANCED,Fondos mutuos; Credito hipotecario
+4639.0,92.93,8518.16,0,55.37,44.63,52,76,2,0,23,73,ADVANCED,Credito vehicular; Linea paralela
+4102.59,85.24,737.5,2,45.59,54.41,337,74,3,0,46,68,INTERMEDIATE,Consolidacion de deuda; Prestamo personal; Tarjeta de credito inicial
+4866.72,77.7,14860.5,0,10.46,89.54,144,92,3,0,39,89,ADVANCED,Credito hipotecario; Productos premium; Fondos mutuos
+15357.61,63.51,0.0,0,55.35,44.65,72,52,2,1,27,33,BASIC,Microcredito controlado; Programa de educacion financiera
+4282.86,89.19,6557.91,3,42.35,57.65,135,79,3,0,43,75,ADVANCED,Credito vehicular; Productos premium; Cuenta sueldo premium
+13229.85,85.87,15841.84,3,40.01,59.99,38,81,2,0,25,76,ADVANCED,Linea paralela; Cuenta sueldo premium
+11788.11,83.78,9966.97,0,42.12,57.88,226,85,3,0,36,78,ADVANCED,Credito vehicular; Linea paralela; Credito hipotecario
+3476.43,84.06,2693.18,0,20.29,79.71,360,79,3,0,64,76,ADVANCED,Credito hipotecario; Productos premium; Cuenta sueldo premium
+3098.53,65.86,1802.26,2,71.12,28.88,130,65,2,0,34,45,BASIC,Cuenta de ahorro; Ahorro programado
+17852.73,82.38,0.0,2,21.0,79.0,177,87,2,0,46,78,ADVANCED,Credito hipotecario; Productos premium
+9304.01,89.3,17984.65,0,28.76,71.24,99,85,3,0,39,81,ADVANCED,Linea paralela; Cuenta sueldo premium; Fondos mutuos
+7265.53,93.47,28046.93,0,46.26,53.74,360,87,3,0,50,83,ADVANCED,Credito hipotecario; Credito vehicular; Cuenta sueldo premium
+13343.86,85.82,9858.55,1,45.13,54.87,268,83,4,0,45,74,ADVANCED,Productos premium; Credito vehicular; Credito hipotecario; Linea paralela
+5582.97,66.12,6599.41,3,77.83,22.17,22,61,2,0,20,43,BASIC,Debito automatico; Programa de educacion financiera
+2890.69,75.98,6287.45,1,74.14,25.86,155,79,2,0,49,61,BASIC,Microcredito controlado; Cuenta de ahorro
+5707.09,89.93,12527.55,1,17.78,82.22,28,80,4,0,20,81,ADVANCED,Credito vehicular; Linea paralela; Cuenta sueldo premium; Credito hipotecario
+5101.62,96.44,9096.26,1,21.33,78.67,232,87,3,0,58,86,ADVANCED,Productos premium; Cuenta sueldo premium; Fondos mutuos
+12002.67,71.2,7311.48,2,55.06,44.94,101,76,3,0,40,66,INTERMEDIATE,Prestamo personal; Tarjeta de credito inicial; Consolidacion de deuda
+4921.29,81.24,20597.35,1,30.21,69.79,360,86,2,0,68,83,ADVANCED,Fondos mutuos; Credito vehicular
+8818.89,47.46,19842.49,2,47.07,52.93,252,55,2,1,43,37,BASIC,Ahorro programado; Cuenta de ahorro
+11756.55,76.53,25086.52,0,23.76,76.24,81,84,4,0,33,78,ADVANCED,Credito hipotecario; Linea paralela; Productos premium; Credito vehicular
+3256.14,76.83,6451.91,0,9.15,90.85,106,82,3,0,30,80,ADVANCED,Linea paralela; Productos premium; Credito vehicular
+5445.68,78.77,0.0,2,45.67,54.33,0,65,3,0,22,61,INTERMEDIATE,Prestamo personal; Tarjeta de credito inicial; Seguro de proteccion de pagos
+13030.12,59.77,51016.93,2,38.04,61.96,144,86,3,0,43,76,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Linea paralela
+5772.58,70.73,18017.2,2,36.27,63.73,359,71,2,1,52,55,BASIC,Programa de educacion financiera; Microcredito controlado
+7447.62,75.91,22995.19,3,45.71,54.29,83,79,3,0,30,74,ADVANCED,Productos premium; Linea paralela; Credito hipotecario
+3430.42,76.07,8069.57,1,42.76,57.24,91,76,3,0,35,72,ADVANCED,Fondos mutuos; Credito vehicular; Credito hipotecario
+6345.23,63.76,8743.88,1,32.08,67.92,66,52,2,1,25,39,BASIC,Debito automatico; Programa de educacion financiera
+5875.19,71.33,13979.48,0,47.47,52.53,37,73,3,0,18,69,INTERMEDIATE,Tarjeta de credito inicial; Consolidacion de deuda; Prestamo personal
+4334.65,70.01,8120.06,1,38.32,61.68,95,74,3,0,36,69,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Tarjeta de credito inicial
+4839.45,49.62,10302.16,1,36.33,63.67,151,54,2,1,41,38,BASIC,Ahorro programado; Programa de educacion financiera
+3726.65,52.95,8551.33,6,96.85,3.15,360,32,2,1,60,7,BASIC,Debito automatico; Programa de educacion financiera
+5169.94,77.57,5105.83,1,38.95,61.05,275,78,3,0,41,72,ADVANCED,Productos premium; Fondos mutuos; Credito vehicular
+2688.86,72.52,16556.39,2,62.88,37.12,356,83,2,0,55,74,ADVANCED,Linea paralela; Fondos mutuos
+6831.8,69.33,14716.33,1,35.95,64.05,113,82,3,0,28,76,ADVANCED,Cuenta sueldo premium; Credito vehicular; Fondos mutuos
+10131.58,84.16,55657.54,1,16.85,83.15,286,96,4,0,51,91,ADVANCED,Credito vehicular; Linea paralela; Fondos mutuos; Credito hipotecario
+14460.84,89.65,16349.44,0,9.13,90.87,221,95,3,0,59,91,ADVANCED,Productos premium; Fondos mutuos; Credito hipotecario
+5113.07,82.98,5034.55,1,14.56,85.44,146,83,3,0,49,80,ADVANCED,Linea paralela; Credito hipotecario; Credito vehicular
+6515.84,74.34,1149.5,5,66.9,33.1,115,62,2,0,34,46,BASIC,Programa de educacion financiera; Debito automatico
+4974.37,60.28,8356.89,5,63.03,36.97,86,43,2,1,27,31,BASIC,Microcredito controlado; Debito automatico
+6932.03,64.93,16525.55,1,32.17,67.83,352,59,2,1,48,45,BASIC,Cuenta de ahorro; Programa de educacion financiera
+6445.81,86.3,11689.05,0,31.92,68.08,359,87,2,0,48,84,ADVANCED,Cuenta sueldo premium; Credito hipotecario
+4298.24,93.24,10420.37,0,49.25,50.75,149,81,3,0,58,77,ADVANCED,Fondos mutuos; Credito vehicular; Linea paralela
+6957.28,88.47,18450.09,1,28.33,71.67,82,88,3,0,29,86,ADVANCED,Fondos mutuos; Credito vehicular; Linea paralela
+7849.95,100.0,23545.17,4,20.64,79.36,155,94,4,0,38,93,INTERMEDIATE,Credito de consumo; Consolidacion de deuda; Seguro de proteccion de pagos; Tarjeta de credito inicial
+5396.8,58.88,0.0,0,49.56,50.44,225,48,2,1,40,31,BASIC,Cuenta de ahorro; Ahorro programado
+13513.23,76.65,14078.88,1,35.28,64.72,360,85,4,0,68,77,ADVANCED,Credito vehicular; Linea paralela; Productos premium; Fondos mutuos
+3899.23,82.93,9972.61,2,48.73,51.27,360,79,3,0,53,74,ADVANCED,Cuenta sueldo premium; Fondos mutuos; Credito vehicular
+8858.45,68.92,0.0,6,86.91,13.09,261,55,2,0,55,37,BASIC,Cuenta de ahorro; Microcredito controlado
+5080.93,65.69,20579.62,1,54.7,45.3,59,59,2,1,28,45,BASIC,Debito automatico; Programa de educacion financiera
+5238.66,79.04,10751.58,2,74.54,25.46,241,75,2,0,53,57,BASIC,Programa de educacion financiera; Cuenta de ahorro
+6030.59,71.84,23370.58,1,19.44,80.56,276,87,3,0,39,83,ADVANCED,Cuenta sueldo premium; Linea paralela; Productos premium
+7665.83,81.94,7898.64,6,73.22,26.78,106,62,2,0,25,48,BASIC,Cuenta de ahorro; Microcredito controlado
+12305.24,84.58,10744.86,0,53.2,46.8,152,81,3,0,53,72,ADVANCED,Linea paralela; Cuenta sueldo premium; Fondos mutuos
+9233.13,72.7,41442.0,0,39.01,60.99,77,66,2,1,33,53,BASIC,Cuenta de ahorro; Debito automatico
+6914.21,82.67,21562.42,1,59.0,41.0,352,82,3,0,47,76,ADVANCED,Linea paralela; Fondos mutuos; Credito hipotecario
+8772.02,89.31,12959.23,1,22.89,77.11,44,82,3,0,25,81,ADVANCED,Credito vehicular; Fondos mutuos; Linea paralela
+7214.42,83.33,6952.28,0,9.25,90.75,50,79,2,0,22,78,ADVANCED,Credito vehicular; Fondos mutuos
+8366.86,80.78,5417.72,0,14.52,85.48,44,80,3,0,22,78,ADVANCED,Credito hipotecario; Credito vehicular; Linea paralela
+4331.05,64.3,13320.2,1,47.5,52.5,140,56,2,1,42,42,BASIC,Ahorro programado; Debito automatico
+8620.08,83.69,5858.09,1,33.03,66.97,203,83,4,0,40,77,ADVANCED,Productos premium; Linea paralela; Credito vehicular; Fondos mutuos
+14438.65,47.78,23570.53,6,35.53,64.47,336,52,2,1,57,39,BASIC,Cuenta de ahorro; Microcredito controlado
+5735.39,46.53,4431.85,3,55.23,44.77,55,43,2,1,21,27,BASIC,Cuenta de ahorro; Microcredito controlado
+3560.52,78.23,9017.31,3,57.31,42.69,75,83,3,0,30,76,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Linea paralela
+6316.19,79.0,14011.63,0,64.01,35.99,51,76,2,0,21,71,ADVANCED,Linea paralela; Credito hipotecario
+9507.28,96.32,8315.9,0,14.53,85.47,72,84,4,0,35,82,ADVANCED,Linea paralela; Productos premium; Cuenta sueldo premium; Credito hipotecario
+3009.35,79.03,5817.26,0,24.39,75.61,30,75,3,0,23,75,ADVANCED,Linea paralela; Credito vehicular; Cuenta sueldo premium
+10823.51,83.84,51576.32,0,5.14,94.86,236,100,4,0,42,95,ADVANCED,Fondos mutuos; Credito hipotecario; Productos premium; Linea paralela
+6906.41,86.22,23064.59,0,30.52,69.48,73,85,3,0,24,83,ADVANCED,Linea paralela; Credito hipotecario; Productos premium
+6268.32,78.88,3637.54,1,40.69,59.31,68,73,3,0,31,68,INTERMEDIATE,Credito de consumo; Seguro de proteccion de pagos; Consolidacion de deuda
+5432.03,75.69,7608.12,6,50.51,49.49,179,65,4,0,33,64,INTERMEDIATE,Prestamo personal; Seguro de proteccion de pagos; Consolidacion de deuda; Tarjeta de credito inicial
+7747.13,84.12,0.0,6,80.62,19.38,0,50,2,0,18,39,BASIC,Debito automatico; Microcredito controlado
+8446.18,85.35,8079.4,1,24.4,75.6,187,85,3,0,54,80,ADVANCED,Credito vehicular; Credito hipotecario; Cuenta sueldo premium
+8489.37,69.05,35954.14,3,71.27,28.73,165,87,2,0,38,64,BASIC,Debito automatico; Microcredito controlado
+5265.77,91.32,23542.45,1,24.4,75.6,176,91,2,0,36,89,ADVANCED,Cuenta sueldo premium; Fondos mutuos
+6900.97,75.47,28529.07,1,43.37,56.63,161,85,2,0,38,79,ADVANCED,Productos premium; Linea paralela
+13404.74,89.54,59691.37,3,41.81,58.19,115,97,4,0,42,89,ADVANCED,Productos premium; Fondos mutuos; Credito vehicular; Credito hipotecario
+15917.55,97.49,64809.79,1,24.3,75.7,134,100,4,0,27,95,ADVANCED,Linea paralela; Credito vehicular; Fondos mutuos; Credito hipotecario
+7410.48,60.2,9417.72,1,59.63,40.37,261,72,3,0,41,62,INTERMEDIATE,Credito de consumo; Seguro de proteccion de pagos; Consolidacion de deuda
+6005.89,86.12,20834.2,0,38.43,61.57,360,94,3,0,52,87,ADVANCED,Credito vehicular; Fondos mutuos; Cuenta sueldo premium
+2674.64,79.4,0.0,0,32.59,67.41,315,73,3,0,53,68,INTERMEDIATE,Consolidacion de deuda; Prestamo personal; Tarjeta de credito inicial
+6621.4,78.43,25356.79,2,23.19,76.81,52,82,3,0,27,80,ADVANCED,Cuenta sueldo premium; Credito hipotecario; Fondos mutuos
+9429.28,92.72,14276.0,2,54.01,45.99,287,85,3,0,39,79,ADVANCED,Linea paralela; Productos premium; Credito hipotecario
+4902.44,89.23,8426.0,1,27.3,72.7,123,87,3,0,40,85,ADVANCED,Credito vehicular; Credito hipotecario; Productos premium
+9736.51,86.15,26000.35,2,28.47,71.53,27,87,3,0,21,85,ADVANCED,Linea paralela; Fondos mutuos; Cuenta sueldo premium
+4462.0,86.1,0.0,1,36.99,63.01,58,71,3,0,23,68,INTERMEDIATE,Seguro de proteccion de pagos; Prestamo personal; Consolidacion de deuda
+3433.06,75.59,1004.56,0,36.96,63.04,59,69,3,0,35,65,INTERMEDIATE,Prestamo personal; Credito de consumo; Tarjeta de credito inicial
+7514.69,75.96,29557.75,2,36.57,63.43,187,85,4,0,36,80,ADVANCED,Fondos mutuos; Credito hipotecario; Cuenta sueldo premium; Productos premium
+1362.84,92.83,957.49,0,43.85,56.15,57,73,3,0,30,72,ADVANCED,Credito hipotecario; Cuenta sueldo premium; Productos premium
+7122.52,94.73,11796.01,1,36.94,63.06,177,85,3,0,40,81,ADVANCED,Linea paralela; Credito hipotecario; Fondos mutuos
+6416.37,94.19,0.0,0,34.01,65.99,92,77,2,0,27,73,ADVANCED,Credito vehicular; Linea paralela
+11919.83,89.1,23302.46,2,34.65,65.35,181,90,4,0,31,84,ADVANCED,Fondos mutuos; Credito vehicular; Cuenta sueldo premium; Linea paralela
+9253.79,54.48,15083.46,0,17.95,82.05,27,59,2,1,19,48,BASIC,Cuenta de ahorro; Microcredito controlado
+16579.32,73.52,107366.86,2,78.86,21.14,169,93,2,0,51,67,BASIC,Debito automatico; Programa de educacion financiera
+8318.08,69.53,16401.91,0,29.0,71.0,325,68,2,1,62,55,BASIC,Debito automatico; Cuenta de ahorro
+8579.1,88.36,7708.01,3,45.47,54.53,226,80,4,0,57,73,ADVANCED,Cuenta sueldo premium; Fondos mutuos; Linea paralela; Credito vehicular
+3128.08,79.44,7656.64,1,41.31,58.69,130,79,3,0,32,75,ADVANCED,Linea paralela; Cuenta sueldo premium; Productos premium
+5817.41,85.23,33126.79,1,55.34,44.66,232,88,3,0,46,81,ADVANCED,Fondos mutuos; Credito hipotecario; Linea paralela
+3988.64,72.26,692.07,2,33.05,66.95,90,51,2,1,35,39,BASIC,Cuenta de ahorro; Ahorro programado
+2785.89,92.16,0.0,4,30.59,69.41,52,68,3,0,26,68,INTERMEDIATE,Credito de consumo; Seguro de proteccion de pagos; Tarjeta de credito inicial
+8120.33,87.36,39089.99,1,39.62,60.38,360,94,3,0,64,87,ADVANCED,Fondos mutuos; Productos premium; Cuenta sueldo premium
+3863.6,62.52,30582.41,1,25.78,74.22,157,69,2,1,33,54,BASIC,Cuenta de ahorro; Debito automatico
+13154.93,75.82,0.0,6,63.49,36.51,82,61,4,0,31,56,INTERMEDIATE,Prestamo personal; Credito de consumo; Tarjeta de credito inicial; Seguro de proteccion de pagos
+8125.26,79.08,14062.13,2,26.47,73.53,35,77,3,0,22,74,ADVANCED,Fondos mutuos; Credito hipotecario; Cuenta sueldo premium
+6008.8,75.82,0.0,0,25.29,74.71,296,76,3,0,54,70,ADVANCED,Fondos mutuos; Productos premium; Credito hipotecario
+13574.55,95.49,1503.39,1,70.46,29.54,125,79,2,0,38,59,BASIC,Microcredito controlado; Programa de educacion financiera

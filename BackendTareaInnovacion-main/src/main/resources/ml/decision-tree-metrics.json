@@ -1,0 +1,38 @@
+{
+  "records": 800,
+  "trainingRecords": 640,
+  "testRecords": 160,
+  "accuracy": 0.9563,
+  "trainingAccuracy": 0.9719,
+  "testAccuracy": 0.9563,
+  "confusionMatrix": {
+    "BASIC": {
+      "BASIC": 46,
+      "INTERMEDIATE": 0,
+      "ADVANCED": 0
+    },
+    "INTERMEDIATE": {
+      "BASIC": 0,
+      "INTERMEDIATE": 14,
+      "ADVANCED": 5
+    },
+    "ADVANCED": {
+      "BASIC": 1,
+      "INTERMEDIATE": 1,
+      "ADVANCED": 93
+    }
+  },
+  "featureImportance": {
+    "monthly_income": 0.0,
+    "payment_history_rate": 0.0,
+    "savings_level": 0.1287,
+    "active_credits": 0.1512,
+    "debt_ratio": 0.012,
+    "payment_capacity": 0.1614,
+    "employment_months": 0.0135,
+    "conventional_score": 0.3824,
+    "product_count": 0.0788,
+    "has_mora": 0.072,
+    "age": 0.0
+  }
+}

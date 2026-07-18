@@ -1,0 +1,206 @@
+{
+  "algorithm": "Decision Tree CART",
+  "randomSeed": 42,
+  "classes": [
+    "BASIC",
+    "INTERMEDIATE",
+    "ADVANCED"
+  ],
+  "features": [
+    "monthly_income",
+    "payment_history_rate",
+    "savings_level",
+    "active_credits",
+    "debt_ratio",
+    "payment_capacity",
+    "employment_months",
+    "conventional_score",
+    "product_count",
+    "has_mora",
+    "age"
+  ],
+  "tree": {
+    "feature": "conventional_score",
+    "threshold": 72.5,
+    "samples": 640,
+    "classCounts": {
+      "ADVANCED": 350,
+      "BASIC": 207,
+      "INTERMEDIATE": 83
+    },
+    "left": {
+      "feature": "product_count",
+      "threshold": 2.5,
+      "samples": 210,
+      "classCounts": {
+        "BASIC": 181,
+        "INTERMEDIATE": 27,
+        "ADVANCED": 2
+      },
+      "left": {
+        "feature": "has_mora",
+        "threshold": 0.5,
+        "samples": 192,
+        "classCounts": {
+          "BASIC": 181,
+          "INTERMEDIATE": 10,
+          "ADVANCED": 1
+        },
+        "left": {
+          "feature": "debt_ratio",
+          "threshold": 64.495,
+          "samples": 32,
+          "classCounts": {
+            "BASIC": 21,
+            "INTERMEDIATE": 10,
+            "ADVANCED": 1
+          },
+          "left": {
+            "prediction": "INTERMEDIATE",
+            "samples": 11,
+            "classCounts": {
+              "INTERMEDIATE": 10,
+              "ADVANCED": 1
+            }
+          },
+          "right": {
+            "prediction": "BASIC",
+            "samples": 21,
+            "classCounts": {
+              "BASIC": 21
+            }
+          }
+        },
+        "right": {
+          "prediction": "BASIC",
+          "samples": 160,
+          "classCounts": {
+            "BASIC": 160
+          }
+        }
+      },
+      "right": {
+        "prediction": "INTERMEDIATE",
+        "samples": 18,
+        "classCounts": {
+          "INTERMEDIATE": 17,
+          "ADVANCED": 1
+        }
+      }
+    },
+    "right": {
+      "feature": "payment_capacity",
+      "threshold": 36.62,
+      "samples": 430,
+      "classCounts": {
+        "ADVANCED": 348,
+        "INTERMEDIATE": 56,
+        "BASIC": 26
+      },
+      "left": {
+        "prediction": "BASIC",
+        "samples": 27,
+        "classCounts": {
+          "ADVANCED": 2,
+          "BASIC": 25
+        }
+      },
+      "right": {
+        "feature": "active_credits",
+        "threshold": 3.5,
+        "samples": 403,
+        "classCounts": {
+          "ADVANCED": 346,
+          "INTERMEDIATE": 56,
+          "BASIC": 1
+        },
+        "left": {
+          "feature": "conventional_score",
+          "threshold": 75.5,
+          "samples": 379,
+          "classCounts": {
+            "ADVANCED": 346,
+            "INTERMEDIATE": 32,
+            "BASIC": 1
+          },
+          "left": {
+            "feature": "employment_months",
+            "threshold": 86.5,
+            "samples": 36,
+            "classCounts": {
+              "INTERMEDIATE": 22,
+              "ADVANCED": 13,
+              "BASIC": 1
+            },
+            "left": {
+              "prediction": "ADVANCED",
+              "samples": 14,
+              "classCounts": {
+                "ADVANCED": 12,
+                "INTERMEDIATE": 2
+              }
+            },
+            "right": {
+              "prediction": "INTERMEDIATE",
+              "samples": 22,
+              "classCounts": {
+                "INTERMEDIATE": 20,
+                "ADVANCED": 1,
+                "BASIC": 1
+              }
+            }
+          },
+          "right": {
+            "feature": "savings_level",
+            "threshold": 56.14,
+            "samples": 343,
+            "classCounts": {
+              "ADVANCED": 333,
+              "INTERMEDIATE": 10
+            },
+            "left": {
+              "prediction": "ADVANCED",
+              "samples": 42,
+              "classCounts": {
+                "ADVANCED": 33,
+                "INTERMEDIATE": 9
+              }
+            },
+            "right": {
+              "prediction": "ADVANCED",
+              "samples": 301,
+              "classCounts": {
+                "ADVANCED": 300,
+                "INTERMEDIATE": 1
+              }
+            }
+          }
+        },
+        "right": {
+          "prediction": "INTERMEDIATE",
+          "samples": 24,
+          "classCounts": {
+            "INTERMEDIATE": 24
+          }
+        }
+      }
+    }
+  },
+  "profileProducts": {
+    "BASIC": [
+      "Cuenta de ahorro",
+      "Microcredito controlado",
+      "Educacion financiera"
+    ],
+    "INTERMEDIATE": [
+      "Tarjeta de credito",
+      "Prestamo personal",
+      "Consolidacion de deuda"
+    ],
+    "ADVANCED": [
+      "Credito vehicular",
+      "Credito hipotecario",
+      "Productos premium"
+    ]
+  }
+}
