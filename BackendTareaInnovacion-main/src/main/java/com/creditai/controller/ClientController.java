@@ -4,6 +4,7 @@ import com.creditai.dto.ApiResponse;
 import com.creditai.dto.ClientRequest;
 import com.creditai.dto.ClientResponse;
 import com.creditai.dto.FinancialHistoryRequest;
+import com.creditai.dto.FinancialHistoryResponse;
 import com.creditai.entity.Client;
 import com.creditai.entity.FinancialHistory;
 import com.creditai.repository.ClientRepository;
@@ -53,13 +54,15 @@ public class ClientController {
     }
 
     @GetMapping("/{id}/history")
-    public ResponseEntity<ApiResponse<List<FinancialHistory>>> getHistory(@PathVariable Long id) {
-        return ResponseEntity.ok(ApiResponse.ok(histRepo.findByClientIdOrderByRecordDateDesc(id)));
+    public ResponseEntity<ApiResponse<List<FinancialHistoryResponse>>> getHistory(@PathVariable Long id) {
+        return ResponseEntity.ok(ApiResponse.ok(histRepo.findByClientIdOrderByRecordDateDesc(id).stream()
+                .map(this::mapHistory)
+                .toList()));
     }
 
     @PostMapping("/{id}/history")
-    public ResponseEntity<ApiResponse<FinancialHistory>> addHistory(@PathVariable Long id,
-                                                                     @RequestBody FinancialHistoryRequest req) {
+    public ResponseEntity<ApiResponse<FinancialHistoryResponse>> addHistory(@PathVariable Long id,
+                                                                             @RequestBody FinancialHistoryRequest req) {
         Client client = clientRepository.findById(id).orElseThrow();
         FinancialHistory fh = FinancialHistory.builder()
                 .client(client)
@@ -74,6 +77,23 @@ public class ClientController {
                         ? FinancialHistory.PaymentStatus.valueOf(req.paymentStatus()) : null)
                 .overdueAmount(req.overdueAmount())
                 .build();
-        return ResponseEntity.ok(ApiResponse.ok("Historial registrado", histRepo.save(fh)));
+        return ResponseEntity.ok(ApiResponse.ok("Historial registrado", mapHistory(histRepo.save(fh))));
+    }
+
+    private FinancialHistoryResponse mapHistory(FinancialHistory fh) {
+        return new FinancialHistoryResponse(
+                fh.getId(),
+                fh.getClient().getId(),
+                fh.getRecordType() != null ? fh.getRecordType().name() : null,
+                fh.getAmount(),
+                fh.getDescription(),
+                fh.getRecordDate(),
+                fh.getTotalInstallments(),
+                fh.getPaidInstallments(),
+                fh.getOverdueInstallments(),
+                fh.getPaymentStatus() != null ? fh.getPaymentStatus().name() : null,
+                fh.getOverdueAmount(),
+                fh.getCreatedAt()
+        );
     }
 }
