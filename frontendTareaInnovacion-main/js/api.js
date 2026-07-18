@@ -2,7 +2,7 @@
    api.js — Capa de comunicación con el backend
    ═══════════════════════════════════════ */
 
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = (window.CREDIT_AI_API_BASE || 'http://localhost:8080/api').replace(/\/$/, '');
 
 const api = {
     _token: localStorage.getItem('credit_token'),
