@@ -60,7 +60,7 @@ public class DashboardController {
         long clientsWithOverdue = (riskDist.getOrDefault("HIGH", 0L) + riskDist.getOrDefault("VERY_HIGH", 0L));
 
         DatasetAnalytics datasetAnalytics = loadDatasetAnalytics();
-        if (evaluations.size() < 10 && datasetAnalytics.records() > 0) {
+        if (totalClients == 0 && evaluations.isEmpty() && datasetAnalytics.records() > 0) {
             evaluatedClients = datasetAnalytics.records();
             avgScore = datasetAnalytics.averageScore();
             basic = datasetAnalytics.profileCounts().getOrDefault("BASIC", 0L);
