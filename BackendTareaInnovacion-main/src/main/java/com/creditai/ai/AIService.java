@@ -138,7 +138,10 @@ public class AIService {
 
     private String callGemini(String prompt) {
         try {
-            String url = geminiUrl + "?key=" + geminiApiKey;
+            String baseUrl = geminiUrl.contains(":generateContent")
+                    ? geminiUrl
+                    : geminiUrl + "/" + geminiModel + ":generateContent";
+            String url = baseUrl + "?key=" + geminiApiKey;
             Map<String, Object> body = Map.of(
                     "contents", List.of(Map.of("parts", List.of(Map.of("text", prompt)))),
                     "generationConfig", Map.of("temperature", 0.3, "maxOutputTokens", 1024)
