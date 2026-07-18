@@ -1,9 +1,7 @@
 package com.creditai.controller;
 
 import com.creditai.dto.*;
-import com.creditai.entity.CreditEvaluation;
 import com.creditai.entity.User;
-import com.creditai.repository.CreditEvaluationRepository;
 import com.creditai.repository.UserRepository;
 import com.creditai.service.CreditEvaluationService;
 import lombok.RequiredArgsConstructor;
@@ -21,7 +19,6 @@ public class EvaluationController {
 
     private final CreditEvaluationService evaluationService;
     private final UserRepository userRepository;
-    private final CreditEvaluationRepository evalRepository;
 
     @PostMapping("/client/{clientId}")
     public ResponseEntity<ApiResponse<CreditEvaluationResponse>> evaluate(
@@ -48,7 +45,7 @@ public class EvaluationController {
     }
 
     @GetMapping("/client/{clientId}")
-    public ResponseEntity<ApiResponse<List<CreditEvaluation>>> getByClient(@PathVariable Long clientId) {
-        return ResponseEntity.ok(ApiResponse.ok(evalRepository.findByClientIdOrderByEvaluatedAtDesc(clientId)));
+    public ResponseEntity<ApiResponse<List<CreditEvaluationResponse>>> getByClient(@PathVariable Long clientId) {
+        return ResponseEntity.ok(ApiResponse.ok(evaluationService.findByClient(clientId)));
     }
 }

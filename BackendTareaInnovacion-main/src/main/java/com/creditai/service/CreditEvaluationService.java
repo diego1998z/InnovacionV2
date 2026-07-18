@@ -80,6 +80,13 @@ public class CreditEvaluationService {
         return new ChatResponse(aiReply, scoreResult.score());
     }
 
+    @Transactional(readOnly = true)
+    public List<CreditEvaluationResponse> findByClient(Long clientId) {
+        return evaluationRepository.findByClientIdOrderByEvaluatedAtDesc(clientId).stream()
+                .map(this::mapStoredEvaluation)
+                .toList();
+    }
+
     // ── Helpers ───────────────────────────────────────────────────────────
 
     private CreditEvaluation buildEvaluation(Client client,
@@ -131,6 +138,38 @@ public class CreditEvaluationService {
                 ev.getIsSimulation(),
                 ev.getEvaluatedAt()
         );
+    }
+
+    private CreditEvaluationResponse mapStoredEvaluation(CreditEvaluation ev) {
+        return new CreditEvaluationResponse(
+                ev.getId(),
+                ev.getClient().getId(),
+                ev.getClient().getFullName(),
+                ev.getTraditionalScore(),
+                interpretScore(ev.getTraditionalScore()),
+                parseBreakdown(ev.getScoreBreakdown()),
+                ev.getAiProfile() != null ? ev.getAiProfile().name() : null,
+                ev.getRiskLevel() != null ? ev.getRiskLevel().name() : null,
+                ev.getSuggestedCreditLine(),
+                ev.getAiJustification(),
+                ev.getAiRecommendations(),
+                ev.getIsSimulation(),
+                ev.getEvaluatedAt()
+        );
+    }
+
+    private String interpretScore(Integer score) {
+        if (score == null) return "Sin score";
+        if (score >= 80) return "Excelente";
+        if (score >= 65) return "Bueno";
+        if (score >= 50) return "Regular";
+        return "Riesgoso";
+    }
+
+    @SuppressWarnings("unchecked")
+    private Map<String, Integer> parseBreakdown(String json) {
+        try { return objectMapper.readValue(json, Map.class); }
+        catch (Exception e) { return Map.of(); }
     }
 
     private CreditEvaluation.AIProfile mapProfile(String raw) {
